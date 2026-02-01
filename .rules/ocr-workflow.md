@@ -14,17 +14,17 @@
 | **オーケストレーター** | Claude Code (メイン) | 全体管理、進捗追跡、品質判断 |
 | **書き起こし** | Claude subagent | 画像→Markdown変換 |
 | **レビュー** | Codex CLI | 誤字脱字、構造チェック |
-| **前処理** | Python (pdf_tools.py) | PDF回転、画像化 |
+| **前処理** | Python (pdf_tools.py) | PDF回転、画像化、分割 |
 
 ---
 
 ## ワークフロー手順
 
 ### Phase 1: 前処理
-1. PDFのページ数・サイズを確認
-2. 全ページを左90度回転
-3. 画像に変換（DPI: 150）
-4. `pdf/images/{書籍名}/` に保存
+1. `python scripts/pdf_tools.py info --all` でPDF情報を確認
+2. `python scripts/pdf_tools.py page-map {書籍名}` でページマッピングを確認
+3. 画像に変換: `python scripts/pdf_tools.py to-images <pdf> <output_dir> --dpi 150`
+4. 必要に応じて章ごとに分割: `python scripts/pdf_tools.py split <pdf> --ranges "..." -o <dir>`
 
 ### Phase 2: 目次書き起こし
 1. 目次ページの範囲を特定（ユーザーに確認）
@@ -32,13 +32,16 @@
 3. **Codex** でレビュー
 4. 問題があれば修正、なければ次へ
 5. `pdf/output/{書籍名}/00_目次.md` に保存
+6. `python scripts/extract_chapters.py <目次.md>` で章情報を抽出
+7. `python scripts/migrate_status.py` でstatus.jsonを更新
 
 ### Phase 3: 章ごとの書き起こし
-1. 目次からページ範囲を決定
+1. `status.json` から章のページ範囲を取得
 2. 章ごとに **subagent** で書き起こし
 3. 章ごとに **Codex** でレビュー
-4. `pdf/output/{書籍名}/{章番号}_{章名}.md` に保存
-5. `progress/status.json` を更新
+4. **スポットチェック** が必要な場合は実施
+5. `pdf/output/{書籍名}/{Part番号}_{章番号}_{章名}.md` に保存
+6. `progress/status.json` を更新
 
 ### Phase 4: 最終確認
 1. 全章の完了を確認
@@ -47,19 +50,49 @@
 
 ---
 
+## スポットチェック（統一ルール）
+
+以下のいずれかに該当する章は、オーケストレーターがサンプルページで原本照合を行う：
+
+1. **各書籍の最初の章** - 表記スタイルの確認
+2. **5章ごと（5, 10, 15, ...）** - 継続的な品質確認
+3. **前半/後半の境界をまたぐ章** - ページマッピングの検証
+4. **Codexが警告を出した章** - 問題の深堀り
+
+### スポットチェック方法
+- 章の最初と最後のページのみ確認（全ページは不要）
+- 見出し、ページ番号、図表参照の一致を確認
+- 問題があれば `progress/logs/spot_checks/` にログを記録
+
+---
+
 ## 進捗管理
 
-`progress/status.json` で管理：
+`progress/status.json` (v2.0) で管理：
 
 ```json
 {
+  "version": "2.0",
+  "config": {
+    "image_naming": "page_{:03d}.png",
+    "dpi": 150,
+    "spot_check_interval": 5,
+    "max_retry": {...}
+  },
   "books": {
     "核心": {
-      "status": "in_progress",
-      "total_chapters": 21,
-      "completed_chapters": 5,
-      "current_chapter": 6,
-      "last_updated": "2026-02-01T20:00:00"
+      "status": "toc_completed",
+      "files": {"main": [...], "supplement": [...]},
+      "page_mapping": {...},
+      "chapters": [
+        {
+          "id": "Part1_01",
+          "title": "冠詞",
+          "book_pages": {"start": 10, "end": 16},
+          "status": "pending",
+          "spot_check_required": true
+        }
+      ]
     }
   }
 }
@@ -95,6 +128,7 @@
 3. **状態はファイルに保存**
    - 進捗は `progress/status.json`
    - 中間成果物は `pdf/output/` に即保存
+   - レビューログは `progress/logs/` に記録
 
 4. **中断・再開を前提に設計**
    - どこで止まっても再開できる
@@ -104,12 +138,39 @@
 
 ## エラーハンドリング
 
-| 状況 | 対応 |
-|------|------|
-| 画像が読めない | DPIを上げて再変換 |
-| subagentがタイムアウト | ページ数を減らして再試行 |
-| Codexがエラーを検出 | Claudeが修正して再レビュー |
-| 原本と大きく異なる | ユーザーに確認 |
+| 状況 | 対応 | リトライ上限 |
+|------|------|-------------|
+| 画像が読めない | DPIを上げて再変換（150→200→300） | 3回 |
+| subagentがタイムアウト | ページ数を半分に減らして再試行 | 2回 |
+| Codexがエラーを検出 | Claudeが修正して再レビュー | 2回 |
+| 原本と大きく異なる | ユーザーに確認 | - |
+
+リトライ上限を超えた場合は `progress/logs/errors/` にログを記録し、ユーザーに報告。
+
+---
+
+## 別冊の扱い
+
+- 別冊は本体とは**独立したディレクトリ**で管理
+- ディレクトリ: `pdf/images/{書籍名}_別冊/`, `pdf/output/{書籍名}_別冊/`
+- status.jsonでは `supplement` フィールドで管理
+- 本体と別冊の相互参照は行わない（独立処理）
+
+---
+
+## 命名規則
+
+### 画像ファイル
+```
+page_{PDFページ番号:03d}.png
+例: page_001.png, page_002.png
+```
+
+### 出力Markdown
+```
+{Part番号}_{章番号}_{章名}.md
+例: Part1_01_冠詞.md, Part2_07_文型.md
+```
 
 ---
 
@@ -122,3 +183,4 @@
 | スクランブル | 前半 + 後半 | 未着手 |
 | 肘井 | 本体 + 別冊 | 未着手 |
 | 入門英文 | 1ファイル | 未着手 |
+| はじめの英文読解ドリル | 1ファイル | 未着手 |
