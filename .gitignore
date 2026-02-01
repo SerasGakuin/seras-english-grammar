@@ -14,6 +14,7 @@ wheels/
 pdf/raw/
 pdf/rotated/
 pdf/images/
+pdf/split/
 
 # Keep output (Markdown results)
 !pdf/output/
