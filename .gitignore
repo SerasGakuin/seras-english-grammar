@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.venv/
+
+# macOS
+.DS_Store
+
+# PDF files (copyright)
+pdf/raw/
+pdf/rotated/
+pdf/images/
+
+# Keep output (Markdown results)
+!pdf/output/
+
+# Temporary files
+*.tmp
+*.bak

@@ -1,0 +1,60 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-02-01T21:00:00",
+  "books": {
+    "核心": {
+      "status": "toc_completed",
+      "files": ["核心_前半.pdf", "核心_後半.pdf"],
+      "total_pages": null,
+      "toc_pages": "4-9",
+      "chapters": [],
+      "completed_chapters": 0,
+      "notes": "目次書き起こし完了"
+    },
+    "成川": {
+      "status": "toc_completed",
+      "files": ["成川_前半.pdf", "成川_後半.pdf", "成川_別冊.pdf"],
+      "total_pages": null,
+      "toc_pages": "8-14",
+      "chapters": [],
+      "completed_chapters": 0,
+      "notes": "目次書き起こし完了"
+    },
+    "スクランブル": {
+      "status": "not_started",
+      "files": ["スクランブル_前半.pdf", "スクランブル_後半.pdf"],
+      "total_pages": null,
+      "toc_pages": null,
+      "chapters": [],
+      "completed_chapters": 0,
+      "notes": ""
+    },
+    "肘井": {
+      "status": "not_started",
+      "files": ["肘井.pdf", "肘井_別冊.pdf"],
+      "total_pages": null,
+      "toc_pages": null,
+      "chapters": [],
+      "completed_chapters": 0,
+      "notes": ""
+    },
+    "入門英文": {
+      "status": "not_started",
+      "files": ["入門英文.pdf"],
+      "total_pages": null,
+      "toc_pages": null,
+      "chapters": [],
+      "completed_chapters": 0,
+      "notes": ""
+    },
+    "はじめの英文読解ドリル": {
+      "status": "not_started",
+      "files": ["はじめの英文読解ドリル.pdf"],
+      "total_pages": null,
+      "toc_pages": null,
+      "chapters": [],
+      "completed_chapters": 0,
+      "notes": ""
+    }
+  }
+}
