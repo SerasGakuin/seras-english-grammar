@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-01T21:54:16.771642",
+  "last_updated": "2026-02-01T22:28:05.677260",
   "config": {
     "image_naming": "page_{:03d}.png",
     "dpi": 150,
@@ -10876,6 +10876,326 @@
       "completed_chapters": 0,
       "total_chapters": 36,
       "notes": "入門英文問題精講の別冊（問題・語句）"
+    },
+    "成川_別冊": {
+      "status": "toc_completed",
+      "files": {
+        "main": [
+          "成川_別冊.pdf"
+        ]
+      },
+      "page_mapping": {
+        "成川_別冊.pdf": {
+          "pdf_pages": 180,
+          "book_start": 1,
+          "book_end": 180,
+          "is_supplement": false
+        }
+      },
+      "total_pages": 180,
+      "toc_pages": "1",
+      "total_chapters": 16,
+      "chapters": [
+        {
+          "id": "Part01",
+          "number": "01",
+          "title": "動詞の語法と文型",
+          "book_pages": {
+            "start": 2,
+            "end": 27
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": true
+        },
+        {
+          "id": "Part02",
+          "number": "02",
+          "title": "受動態",
+          "book_pages": {
+            "start": 28,
+            "end": 29
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Part03",
+          "number": "03",
+          "title": "時制",
+          "book_pages": {
+            "start": 30,
+            "end": 33
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Part04",
+          "number": "04",
+          "title": "助動詞",
+          "book_pages": {
+            "start": 34,
+            "end": 38
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Part05",
+          "number": "05",
+          "title": "仮定法",
+          "book_pages": {
+            "start": 39,
+            "end": 42
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": true
+        },
+        {
+          "id": "Part06",
+          "number": "06",
+          "title": "準動詞",
+          "book_pages": {
+            "start": 43,
+            "end": 52
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Part07",
+          "number": "07",
+          "title": "接続詞",
+          "book_pages": {
+            "start": 53,
+            "end": 63
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Part08",
+          "number": "08",
+          "title": "関係詞",
+          "book_pages": {
+            "start": 64,
+            "end": 71
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Part09",
+          "number": "09",
+          "title": "前置詞",
+          "book_pages": {
+            "start": 72,
+            "end": 82
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Part10",
+          "number": "10",
+          "title": "比較",
+          "book_pages": {
+            "start": 83,
+            "end": 87
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": true
+        },
+        {
+          "id": "Part11",
+          "number": "11",
+          "title": "冠詞・名詞",
+          "book_pages": {
+            "start": 88,
+            "end": 99
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Part12",
+          "number": "12",
+          "title": "代名詞",
+          "book_pages": {
+            "start": 100,
+            "end": 105
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Part13",
+          "number": "13",
+          "title": "形容詞",
+          "book_pages": {
+            "start": 106,
+            "end": 116
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Part14",
+          "number": "14",
+          "title": "副詞",
+          "book_pages": {
+            "start": 117,
+            "end": 122
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Part15",
+          "number": "15",
+          "title": "特殊構文・その他",
+          "book_pages": {
+            "start": 123,
+            "end": 130
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": true
+        },
+        {
+          "id": "Matome",
+          "number": "16",
+          "title": "基本例文のまとめ",
+          "book_pages": {
+            "start": 131,
+            "end": 180
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        }
+      ]
+    },
+    "肘井_別冊": {
+      "status": "toc_completed",
+      "files": {
+        "main": [
+          "肘井_別冊.pdf"
+        ]
+      },
+      "page_mapping": {
+        "肘井_別冊.pdf": {
+          "pdf_pages": 80,
+          "book_start": 1,
+          "book_end": 80,
+          "is_supplement": false
+        }
+      },
+      "total_pages": 80,
+      "toc_pages": "1,3",
+      "total_chapters": 5,
+      "chapters": [
+        {
+          "id": "Ch00",
+          "chapter": "序章",
+          "number": "0",
+          "title": "SVの発見編",
+          "book_pages": {
+            "start": 2,
+            "end": 5
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": true
+        },
+        {
+          "id": "Ch01",
+          "chapter": "第1章",
+          "number": "1",
+          "title": "意味のカタマリ編",
+          "book_pages": {
+            "start": 6,
+            "end": 19
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Ch02",
+          "chapter": "第2章",
+          "number": "2",
+          "title": "識別編",
+          "book_pages": {
+            "start": 20,
+            "end": 33
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Ch03",
+          "chapter": "第3章",
+          "number": "3",
+          "title": "構文編",
+          "book_pages": {
+            "start": 34,
+            "end": 55
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Ch04",
+          "chapter": "第4章",
+          "number": "4",
+          "title": "動詞の型編",
+          "book_pages": {
+            "start": 56,
+            "end": 80
+          },
+          "status": "pending",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": true
+        }
+      ]
     }
   }
 }

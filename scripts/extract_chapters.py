@@ -425,6 +425,118 @@ def extract_chapters_nyumon_supplement(toc_content: str) -> dict:
     }
 
 
+def extract_chapters_narikawa_supplement(toc_content: str) -> dict:
+    """成川_別冊の目次をパース
+
+    フォーマット:
+    - PART XX　タイトル …… ページ
+    - 基本例文のまとめ …… ページ
+    """
+    chapters = []
+
+    lines = toc_content.split("\n")
+
+    for line in lines:
+        # PART行検出: - PART 01　動詞の語法と文型 …… 002
+        part_match = re.match(r"^- PART (\d+)　(.+?) [… ]+(\d+)$", line.strip())
+        if part_match:
+            chapters.append({
+                "id": f"Part{part_match.group(1)}",
+                "number": part_match.group(1),
+                "title": part_match.group(2).strip(),
+                "book_pages": {
+                    "start": int(part_match.group(3)),
+                    "end": None
+                }
+            })
+            continue
+
+        # 基本例文のまとめ: - 基本例文のまとめ …… 131
+        matome_match = re.match(r"^- (基本例文のまとめ) [… ]+(\d+)$", line.strip())
+        if matome_match:
+            chapters.append({
+                "id": "Matome",
+                "number": "16",
+                "title": matome_match.group(1).strip(),
+                "book_pages": {
+                    "start": int(matome_match.group(2)),
+                    "end": None
+                }
+            })
+
+    # 終了ページを計算
+    for i, ch in enumerate(chapters):
+        if i + 1 < len(chapters):
+            ch["book_pages"]["end"] = chapters[i + 1]["book_pages"]["start"] - 1
+        else:
+            # 最後の章（成川_別冊は180ページ）
+            ch["book_pages"]["end"] = 180
+
+    return {
+        "book": "成川_別冊",
+        "format": "narikawa_supplement",
+        "total_chapters": len(chapters),
+        "chapters": chapters
+    }
+
+
+def extract_chapters_hijii_supplement(toc_content: str) -> dict:
+    """肘井_別冊の目次をパース
+
+    フォーマット:
+    - 序章　タイトル …… ページ
+    - 第N章　タイトル …… ページ
+    """
+    chapters = []
+
+    lines = toc_content.split("\n")
+
+    for line in lines:
+        # 序章検出: - 序章　SVの発見編 …… 2
+        jo_match = re.match(r"^- (序章)　(.+?) [… ]+(\d+)$", line.strip())
+        if jo_match:
+            chapters.append({
+                "id": "Ch00",
+                "chapter": jo_match.group(1),
+                "number": "0",
+                "title": jo_match.group(2).strip(),
+                "book_pages": {
+                    "start": int(jo_match.group(3)),
+                    "end": None
+                }
+            })
+            continue
+
+        # 章検出: - 第1章　意味のカタマリ編 …… 6
+        chapter_match = re.match(r"^- 第(\d+)章　(.+?) [… ]+(\d+)$", line.strip())
+        if chapter_match:
+            chapters.append({
+                "id": f"Ch{chapter_match.group(1).zfill(2)}",
+                "chapter": f"第{chapter_match.group(1)}章",
+                "number": chapter_match.group(1),
+                "title": chapter_match.group(2).strip(),
+                "book_pages": {
+                    "start": int(chapter_match.group(3)),
+                    "end": None
+                }
+            })
+
+    # 終了ページを計算
+    for i, ch in enumerate(chapters):
+        if i + 1 < len(chapters):
+            ch["book_pages"]["end"] = chapters[i + 1]["book_pages"]["start"] - 1
+        else:
+            # 最後の章（肘井_別冊は80ページ）
+            ch["book_pages"]["end"] = 80
+
+    return {
+        "book": "肘井_別冊",
+        "format": "hijii_supplement",
+        "total_chapters": len(chapters),
+        "chapters": chapters
+    }
+
+
 def extract_chapters_hajime(toc_content: str) -> dict:
     """はじめの英文読解ドリルの目次をパース
 
@@ -482,10 +594,16 @@ def detect_format(toc_content: str) -> str:
         return "kakushin"
     elif "## PART" in toc_content and "| No. |" in toc_content:
         return "narikawa"
+    elif "- PART" in toc_content and "……" in toc_content and "## PART" not in toc_content:
+        # 成川_別冊: - PART XX　タイトル …… ページ（テーブル形式ではない）
+        return "narikawa_supplement"
     elif "## Part" in toc_content and "### 第" in toc_content:
         return "scramble"
     elif "- テーマ" in toc_content and "## 序章" in toc_content:
         return "hijii"
+    elif ("- 序章" in toc_content or "- 第" in toc_content) and "別冊" in toc_content:
+        # 肘井_別冊: - 序章 / - 第N章 形式
+        return "hijii_supplement"
     elif "### 第" in toc_content and "……" in toc_content:
         return "nyumon"
     elif "〜" in toc_content and "問題" in toc_content and "語句" in toc_content:
@@ -507,10 +625,14 @@ def extract_chapters(toc_path: Path) -> dict:
         return extract_chapters_kakushin(content)
     elif format_type == "narikawa":
         return extract_chapters_narikawa(content)
+    elif format_type == "narikawa_supplement":
+        return extract_chapters_narikawa_supplement(content)
     elif format_type == "scramble":
         return extract_chapters_scramble(content)
     elif format_type == "hijii":
         return extract_chapters_hijii(content)
+    elif format_type == "hijii_supplement":
+        return extract_chapters_hijii_supplement(content)
     elif format_type == "nyumon":
         return extract_chapters_nyumon(content)
     elif format_type == "nyumon_supplement":
