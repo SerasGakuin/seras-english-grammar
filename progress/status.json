@@ -13,7 +13,7 @@
   },
   "books": {
     "核心": {
-      "status": "toc_completed",
+      "status": "completed",
       "files": {
         "main": [
           "核心_前半.pdf",
@@ -138,9 +138,9 @@
             "start": 71,
             "end": 99
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part2_07_文型.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -153,9 +153,9 @@
             "start": 100,
             "end": 110
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part2_08_現在形.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -168,9 +168,9 @@
             "start": 111,
             "end": 123
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part2_09_完了形.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -183,9 +183,9 @@
             "start": 124,
             "end": 140
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part2_10_仮定法.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -198,9 +198,9 @@
             "start": 141,
             "end": 168
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part2_11_助動詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -213,9 +213,9 @@
             "start": 169,
             "end": 186
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part3_12_不定詞(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -228,9 +228,9 @@
             "start": 187,
             "end": 197
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part3_13_不定詞(2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -243,9 +243,9 @@
             "start": 198,
             "end": 213
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part3_14_動名詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -258,9 +258,9 @@
             "start": 214,
             "end": 224
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part3_15_分詞.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -273,9 +273,9 @@
             "start": 225,
             "end": 237
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part3_16_分詞構文.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -288,9 +288,9 @@
             "start": 238,
             "end": 251
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part4_17_受動態.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -303,9 +303,9 @@
             "start": 252,
             "end": 275
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part4_18_比較.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -318,9 +318,9 @@
             "start": 276,
             "end": 291
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part4_19_疑問詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -333,9 +333,9 @@
             "start": 292,
             "end": 299
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part4_20_否定.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -348,9 +348,9 @@
             "start": 300,
             "end": 330
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part4_21_関係詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         }
       ],
