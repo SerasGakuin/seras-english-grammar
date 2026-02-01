@@ -48,9 +48,9 @@
             "start": 10,
             "end": 16
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part1_01_冠詞.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -63,9 +63,9 @@
             "start": 17,
             "end": 24
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part1_02_名詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -78,9 +78,9 @@
             "start": 25,
             "end": 34
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part1_03_代名詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -93,9 +93,9 @@
             "start": 35,
             "end": 43
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part1_04_形容詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -108,9 +108,9 @@
             "start": 44,
             "end": 54
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part1_05_副詞.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -123,9 +123,9 @@
             "start": 55,
             "end": 70
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/核心/Part1_06_接続詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
