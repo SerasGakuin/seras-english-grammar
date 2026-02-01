@@ -212,18 +212,19 @@ def _extract_narikawa_supplement(content: str) -> list:
 
 
 def extract_chapters_scramble(toc_content: str) -> dict:
-    """スクランブルの目次をパース
+    """スクランブルの目次をパース（章単位）
 
     フォーマット:
     ## Part N 文法
     ### 第N章 タイトル
     - 番号 タイトル ... ページ
+
+    注意: 1ページ内に複数項目があるため、項目単位ではなく章単位で管理
     """
     chapters = []
     current_part = None
     current_part_title = None
-    current_chapter = None
-    current_chapter_title = None
+    current_chapter_info = None
 
     lines = toc_content.split("\n")
 
@@ -235,37 +236,60 @@ def extract_chapters_scramble(toc_content: str) -> dict:
             current_part_title = part_match.group(2).strip()
             continue
 
+        # 特別編検出: ## 特別編 「読解・作文」のための文法問題
+        special_match = re.match(r"^## 特別編 (.+)$", line)
+        if special_match:
+            # 前の章を確定
+            if current_chapter_info:
+                chapters.append(current_chapter_info)
+            current_chapter_info = {
+                "id": "Special",
+                "part": "Special",
+                "part_title": "特別編",
+                "chapter": 0,
+                "title": special_match.group(1).strip(),
+                "book_pages": {"start": None, "end": None}
+            }
+            continue
+
         # 章検出: ### 第1章 時制
         chapter_match = re.match(r"^### 第(\d+)章 (.+)$", line)
         if chapter_match:
-            current_chapter = int(chapter_match.group(1))
-            current_chapter_title = chapter_match.group(2).strip()
-            continue
-
-        # 項目検出: - 1 基本3時制の用法 ..... 49
-        # ページ番号は ... や空白の後に数字
-        item_match = re.match(r"^- (\d+) (.+?) [\.… ]+(\d+)$", line.strip())
-        if item_match and current_chapter:
-            chapters.append({
-                "id": f"Ch{str(current_chapter).zfill(2)}_{item_match.group(1).zfill(3)}",
+            # 前の章を確定
+            if current_chapter_info:
+                chapters.append(current_chapter_info)
+            chapter_num = int(chapter_match.group(1))
+            current_chapter_info = {
+                "id": f"Part{current_part}_Ch{str(chapter_num).zfill(2)}",
                 "part": f"Part{current_part}" if current_part else "Part1",
                 "part_title": current_part_title or "",
-                "chapter": current_chapter,
-                "chapter_title": current_chapter_title or "",
-                "number": item_match.group(1),
-                "title": item_match.group(2).strip(),
-                "book_pages": {
-                    "start": int(item_match.group(3)),
-                    "end": None
-                }
-            })
+                "chapter": chapter_num,
+                "title": chapter_match.group(2).strip(),
+                "book_pages": {"start": None, "end": None}
+            }
+            continue
 
-    # 終了ページを計算（次の項目の開始ページ - 1）
+        # 項目検出（章の開始ページを取得するため）
+        item_match = re.match(r"^- (\d+) (.+?) [\.… ]+(\d+)$", line.strip())
+        if item_match and current_chapter_info:
+            page = int(item_match.group(3))
+            if current_chapter_info["book_pages"]["start"] is None:
+                current_chapter_info["book_pages"]["start"] = page
+            current_chapter_info["book_pages"]["end"] = page
+
+    # 最後の章を追加
+    if current_chapter_info:
+        chapters.append(current_chapter_info)
+
+    # 終了ページを調整（次の章の開始ページ - 1）
     for i, ch in enumerate(chapters):
         if i + 1 < len(chapters):
-            ch["book_pages"]["end"] = chapters[i + 1]["book_pages"]["start"]
+            next_start = chapters[i + 1]["book_pages"]["start"]
+            if next_start:
+                ch["book_pages"]["end"] = next_start - 1
         else:
-            ch["book_pages"]["end"] = ch["book_pages"]["start"] + 2
+            # 最後の章（INDEXの手前まで）
+            ch["book_pages"]["end"] = 497
 
     return {
         "book": "スクランブル",
