@@ -18,12 +18,12 @@
 | 核心 | 前半 + 後半 | 目次完了（21章） |
 | 成川 | 前半 + 後半 | 目次完了（162章） |
 | 成川_別冊 | 1ファイル | 目次完了（16章） |
-| スクランブル | 前半 + 後半 | 未着手 |
-| 肘井 | 本体 | 目次完了（24章） |
+| スクランブル | 前半 + 後半 | 目次完了（300章） |
+| 肘井 | 1ファイル | 目次完了（38章） |
 | 肘井_別冊 | 1ファイル | 目次完了（5章） |
-| 入門英文 | 1ファイル | 目次完了（70章） |
+| 入門英文 | 1ファイル | 目次完了（72章） |
 | 入門英文_別冊 | 1ファイル | 目次完了（36章） |
-| はじめの英文読解ドリル | 1ファイル | 目次完了（36章） |
+| はじめの英文読解ドリル | 1ファイル | 目次完了（35章） |
 
 ---
 
@@ -59,7 +59,11 @@
 │   ├── pdf_tools.py            # PDF操作ツール（info, to-images, split, page-map）
 │   ├── extract_chapters.py     # 目次から章情報を抽出
 │   ├── migrate_status.py       # status.json v1.0→v2.0移行
-│   └── rotate_all.py           # 全PDF回転スクリプト
+│   ├── rotate_all.py           # 全PDF回転スクリプト
+│   ├── sync_docs.py            # status.json→CLAUDE.md同期
+│   ├── setup_hooks.sh          # git hooks セットアップ
+│   └── hooks/                  # git hooks ソース
+│       └── pre-commit          # コミット前整合性チェック
 └── tests/
     ├── conftest.py             # テストfixture
     ├── test_pdf_tools.py       # pdf_tools.pyのテスト
@@ -219,6 +223,7 @@ cat progress/status.json | jq '.books.核心.chapters[:3]'
 3. **複数LLMの協調**: Claude（書き起こし）+ Codex（レビュー）で品質担保
 4. **漸進的改善**: 表記ルールは最小限から始め、必要に応じて追加
 5. **一貫性**: skillsとhooksで同じ手順を毎回実行
+6. **Single Source of Truth**: `status.json` を唯一の真実の源泉とし、ドキュメントは自動同期
 
 ---
 
@@ -227,6 +232,12 @@ cat progress/status.json | jq '.books.核心.chapters[:3]'
 ```bash
 # venv有効化
 source .venv/bin/activate
+
+# git hooks セットアップ（初回のみ）
+./scripts/setup_hooks.sh
+
+# ドキュメント同期（status.json更新後）
+.venv/bin/python scripts/sync_docs.py
 
 # テスト実行
 .venv/bin/pytest tests/ -v

@@ -1,0 +1,33 @@
+#!/bin/bash
+# Pre-commit hook: ドキュメント整合性チェック
+#
+# status.json が変更されている場合、CLAUDE.md との整合性をチェック。
+# 不整合があればコミットをブロック。
+
+# status.json がステージングされているか確認
+if git diff --cached --name-only | grep -q "progress/status.json"; then
+    echo "🔍 ドキュメント整合性チェック中..."
+
+    # Python仮想環境を使用
+    if [ -f ".venv/bin/python" ]; then
+        PYTHON=".venv/bin/python"
+    else
+        PYTHON="python3"
+    fi
+
+    # 整合性チェック
+    if ! $PYTHON scripts/sync_docs.py --check --quiet; then
+        echo ""
+        echo "❌ ドキュメントが status.json と同期していません"
+        echo ""
+        echo "以下を実行してください:"
+        echo "  $PYTHON scripts/sync_docs.py"
+        echo "  git add CLAUDE.md .rules/ocr-workflow.md"
+        echo ""
+        exit 1
+    fi
+
+    echo "✅ ドキュメント整合性OK"
+fi
+
+exit 0
