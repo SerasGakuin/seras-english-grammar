@@ -9,7 +9,7 @@
 ```
 /ocr-batch 核心              # 核心の全21章を処理
 /ocr-batch 核心 Part1_01 Part1_06  # Part1_01〜Part1_06を処理
-/ocr-batch 成川 Part01_01 Part01_10  # 範囲指定
+/ocr-batch 成川 Part01_01 Part01_10  # 成川162章のうち範囲指定
 ```
 
 ## 手順

@@ -36,6 +36,7 @@
 │   ├── commands/               # skills定義
 │   │   ├── ocr-toc.md
 │   │   ├── ocr-chapter.md
+│   │   ├── ocr-batch.md
 │   │   ├── ocr-review.md
 │   │   └── ocr-status.md
 │   └── settings.local.json     # hooks設定
@@ -93,6 +94,7 @@
 |---------|------|
 | `/ocr-toc {書籍名}` | 目次の書き起こし |
 | `/ocr-chapter {書籍名} {章ID}` | 章の書き起こし（例: 核心 Part1_01） |
+| `/ocr-batch {書籍名}` | 複数章のバッチ処理 |
 | `/ocr-review {ファイルパス}` | Codexレビュー |
 | `/ocr-status` | 進捗確認 |
 

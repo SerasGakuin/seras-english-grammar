@@ -145,12 +145,22 @@ def update_claude_md(new_table: str, dry_run: bool = False) -> bool:
 
 
 def update_workflow_md(status_data: dict, dry_run: bool = False) -> bool:
-    """ocr-workflow.md の対象書籍テーブルを更新"""
+    """ocr-workflow.md の対象書籍テーブルを更新
+
+    Note: ocr-workflow.mdの対象書籍セクションはCLAUDE.mdへの参照に変更されたため、
+    テーブル形式の場合のみ同期を行う。参照形式の場合はスキップ。
+    """
     if not WORKFLOW_MD.exists():
         print(f"Warning: {WORKFLOW_MD} が存在しません", file=sys.stderr)
         return True
 
     content = WORKFLOW_MD.read_text(encoding="utf-8")
+
+    # 参照形式かどうかをチェック（CLAUDE.md参照の場合はスキップ）
+    if "詳細は `CLAUDE.md` の「対象書籍」セクションを参照" in content:
+        # 参照形式の場合は同期不要
+        return True
+
     books = status_data.get("books", {})
 
     # シンプルなテーブル（本体のみ）を生成
@@ -179,7 +189,7 @@ def update_workflow_md(status_data: dict, dry_run: bool = False) -> bool:
 
     match = re.search(pattern, content, re.DOTALL)
     if not match:
-        print("Warning: ocr-workflow.md に対象書籍テーブルが見つかりません", file=sys.stderr)
+        # テーブルが見つからない場合もOK（参照形式への移行完了）
         return True
 
     old_section = match.group(1).rstrip("\n")
