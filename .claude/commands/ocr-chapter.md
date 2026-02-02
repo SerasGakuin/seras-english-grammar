@@ -30,6 +30,7 @@
 
 4. **Codexレビュー**
    - `/ocr-review` を実行
+   - **Codexが利用制限の場合はサブエージェントで代替（スキップ禁止）**
    - 結果に応じて分岐:
      - **「問題なし」 + `spot_check_required: false`**:
        → 即座にstatus.json更新、完了
