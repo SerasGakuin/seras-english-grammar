@@ -402,9 +402,9 @@
             "start": 18,
             "end": 19
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_01_第1〜3文型の判別方法.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -417,9 +417,9 @@
             "start": 20,
             "end": 21
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_02_第4〜5文型の判別方法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -432,9 +432,9 @@
             "start": 22,
             "end": 24
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_03_5文型攻略のメリット(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -447,9 +447,9 @@
             "start": 25,
             "end": 27
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_04_5文型攻略のメリット(2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -462,9 +462,9 @@
             "start": 28,
             "end": 30
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_05_〈S+V+O₁+O₂〉をとる重要動詞.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -477,9 +477,9 @@
             "start": 31,
             "end": 32
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_06_〈S+V+O+toV〉をとる重要動詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -492,9 +492,9 @@
             "start": 33,
             "end": 35
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_07_使役動詞を用いた〈S+V+O+C〉.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -507,9 +507,9 @@
             "start": 36,
             "end": 38
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_08_知覚動詞を用いた〈S+V+O+C〉.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -522,9 +522,9 @@
             "start": 39,
             "end": 41
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_09_〈S+V+O+C〉をとるその他の重要動詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -537,9 +537,9 @@
             "start": 42,
             "end": 44
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_10_自動詞と他動詞.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -552,9 +552,9 @@
             "start": 45,
             "end": 47
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_11_パターンで理解する動詞(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -567,9 +567,9 @@
             "start": 48,
             "end": 50
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_12_パターンで理解する動詞(2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -582,9 +582,9 @@
             "start": 51,
             "end": 53
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_13_パターンで理解する動詞(3).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -597,9 +597,9 @@
             "start": 54,
             "end": 56
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_14_パターンで理解する動詞(4).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -612,9 +612,9 @@
             "start": 57,
             "end": 59
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_15_パターンで理解する動詞(5).md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -627,9 +627,9 @@
             "start": 60,
             "end": 62
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_16_「言う」の意味をもつ動詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -642,9 +642,9 @@
             "start": 63,
             "end": 65
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_17_「貸し借り」の意味をもつ動詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -657,9 +657,9 @@
             "start": 66,
             "end": 67
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_18_「疑う」の意味をもつ動詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -672,9 +672,9 @@
             "start": 68,
             "end": 70
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_19_「合う」の意味をもつ動詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -687,9 +687,9 @@
             "start": 71,
             "end": 73
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_20_「盗む、奪う」「書く、描く」の意味をもつ動詞.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -702,9 +702,9 @@
             "start": 74,
             "end": 75
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_21_「思い出す」の意味をもつ動詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -717,9 +717,9 @@
             "start": 76,
             "end": 77
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_22_「思いつく」「着用」の意味をもつ動詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -732,9 +732,9 @@
             "start": 78,
             "end": 81
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part01_23_意外な意味をもつ自動詞や他動詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -747,9 +747,9 @@
             "start": 82,
             "end": 84
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part02_01_受動態の意味的特徴.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -762,9 +762,9 @@
             "start": 85,
             "end": 89
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part02_02_受動態の形式的特徴.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -777,9 +777,9 @@
             "start": 90,
             "end": 92
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part03_01_現在形.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -792,9 +792,9 @@
             "start": 93,
             "end": 95
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part03_02_進行形.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -807,9 +807,9 @@
             "start": 96,
             "end": 97
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part03_03_過去形と現在完了形(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -822,9 +822,9 @@
             "start": 98,
             "end": 99
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part03_04_過去形と現在完了形(2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -837,9 +837,9 @@
             "start": 100,
             "end": 102
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part03_05_過去完了形.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -852,9 +852,9 @@
             "start": 103,
             "end": 105
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part03_06_未来を表すさまざまな表現(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -867,9 +867,9 @@
             "start": 106,
             "end": 109
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part03_07_未来を表すさまざまな表現(2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -882,9 +882,9 @@
             "start": 110,
             "end": 113
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part03_08_時や条件を表す副詞節中の時制、時制の一致.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -897,9 +897,9 @@
             "start": 114,
             "end": 115
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part03_09_動詞の原形について考える(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -912,9 +912,9 @@
             "start": 116,
             "end": 119
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part03_10_動詞の原形について考える(2).md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
