@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-02T12:27:35.342628",
+  "last_updated": "2026-02-02T14:15:00.000000",
   "config": {
     "image_naming": "page_{:03d}.png",
     "dpi": 150,
@@ -927,9 +927,9 @@
             "start": 120,
             "end": 122
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part04_01_助動詞とはどういうものか？.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -942,9 +942,9 @@
             "start": 123,
             "end": 125
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part04_02_助動詞may.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -957,9 +957,9 @@
             "start": 126,
             "end": 128
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part04_03_mayを用いた重要表現.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -972,9 +972,9 @@
             "start": 129,
             "end": 132
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part04_04_助動詞can.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -987,9 +987,9 @@
             "start": 133,
             "end": 135
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part04_05_助動詞must.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -1002,9 +1002,9 @@
             "start": 136,
             "end": 137
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part04_06_助動詞should(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1017,9 +1017,9 @@
             "start": 138,
             "end": 139
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part04_07_助動詞should(2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1032,9 +1032,9 @@
             "start": 140,
             "end": 142
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part04_08_推量の助動詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1047,9 +1047,9 @@
             "start": 143,
             "end": 146
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part04_09_〈助動詞+have+Vp.p.〉.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1062,9 +1062,9 @@
             "start": 147,
             "end": 149
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part04_10_wouldとusedtoの用法.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -1077,9 +1077,9 @@
             "start": 150,
             "end": 152
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part04_11_その他の助動詞(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1092,9 +1092,9 @@
             "start": 153,
             "end": 157
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part04_12_その他の助動詞(2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1107,9 +1107,9 @@
             "start": 158,
             "end": 160
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part05_01_直説法と仮定法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1122,9 +1122,9 @@
             "start": 161,
             "end": 163
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part05_02_仮定法過去.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1137,9 +1137,9 @@
             "start": 164,
             "end": 166
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part05_03_仮定法過去完了、仮定法過去と仮定法過去完了の併用.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1152,9 +1152,9 @@
             "start": 167,
             "end": 168
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part05_04_仮定法過去の重要表現.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1167,9 +1167,9 @@
             "start": 169,
             "end": 170
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part05_05_ifの省略と倒置.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -1182,9 +1182,9 @@
             "start": 171,
             "end": 172
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part05_06_if節以外が仮定法の「条件」を表す場合.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1197,9 +1197,9 @@
             "start": 173,
             "end": 175
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part05_07_仮定法を使った重要表現(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1212,9 +1212,9 @@
             "start": 176,
             "end": 177
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part05_08_仮定法を使った重要表現(2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1227,9 +1227,9 @@
             "start": 178,
             "end": 181
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part05_09_仮定法を使った重要表現(3).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1242,9 +1242,9 @@
             "start": 182,
             "end": 184
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_01_準動詞について.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1257,9 +1257,9 @@
             "start": 185,
             "end": 187
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_02_不定詞(toV)の3用法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1272,9 +1272,9 @@
             "start": 188,
             "end": 189
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_03_Vingの3用法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1287,9 +1287,9 @@
             "start": 190,
             "end": 192
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_04_Vppの2用法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1302,9 +1302,9 @@
             "start": 193,
             "end": 196
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_05_不定詞の名詞用法vs動名詞(1).md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -1317,9 +1317,9 @@
             "start": 197,
             "end": 199
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_06_不定詞の名詞用法vs動名詞(2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1332,9 +1332,9 @@
             "start": 200,
             "end": 202
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_07_不定詞と分詞の形容詞用法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1347,9 +1347,9 @@
             "start": 203,
             "end": 206
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_08_不定詞と分詞の副詞用法(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1362,9 +1362,9 @@
             "start": 207,
             "end": 209
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_09_不定詞と分詞の副詞用法(2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1377,9 +1377,9 @@
             "start": 210,
             "end": 212
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_10_準動詞の意味上の主語(1).md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -1392,9 +1392,9 @@
             "start": 213,
             "end": 216
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_11_準動詞の意味上の主語(2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1407,9 +1407,9 @@
             "start": 217,
             "end": 220
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_12_準動詞の意味上の主語(3).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1422,9 +1422,9 @@
             "start": 221,
             "end": 224
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_13_準動詞の時制と否定.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1437,9 +1437,9 @@
             "start": 225,
             "end": 227
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_14_不定詞を用いた重要表現(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1452,9 +1452,9 @@
             "start": 228,
             "end": 230
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_15_不定詞を用いた重要表現(2).md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -1467,9 +1467,9 @@
             "start": 231,
             "end": 234
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_16_動名詞を用いた重要表現.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1482,9 +1482,9 @@
             "start": 235,
             "end": 239
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part06_17_分詞を用いた重要表現.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
