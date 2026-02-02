@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-01T22:40:55.888492",
+  "last_updated": "2026-02-02T12:27:35.342628",
   "config": {
     "image_naming": "page_{:03d}.png",
     "dpi": 150,
