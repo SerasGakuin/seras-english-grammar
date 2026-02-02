@@ -18,6 +18,7 @@
    - `progress/status.json` から書籍の章リストを取得
    - 範囲指定がある場合は該当範囲のみ
    - `status: "pending"` の章のみを対象
+   - **注意**: ページ範囲は `book_pages.start` / `book_pages.end`（`pages`ではない）
 
 2. **制限チェック**
    - 最大50章/バッチ（超過時はエラー）

@@ -9,7 +9,9 @@
 
 1. **status.jsonから章情報を取得**
    - `progress/status.json` を読む
-   - 指定章のページ範囲・スポットチェック要否を取得
+   - 指定章の情報を取得:
+     - `book_pages.start` / `book_pages.end`: ページ範囲（**注意: `pages`ではなく`book_pages`**）
+     - `spot_check_required`: スポットチェック要否
 
 2. **画像準備**
    - `page_mapping` から対象PDFファイルを特定
