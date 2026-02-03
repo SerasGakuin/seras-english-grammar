@@ -1602,9 +1602,9 @@
             "start": 262,
             "end": 264
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part07_08_「理由」を表す接続詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1617,9 +1617,9 @@
             "start": 265,
             "end": 268
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part07_09_「目的・結果」を表す接続詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1632,9 +1632,9 @@
             "start": 269,
             "end": 271
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part07_10_「時」を表す接続詞.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -1647,9 +1647,9 @@
             "start": 272,
             "end": 275
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part07_11_「条件」を表す接続詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1662,9 +1662,9 @@
             "start": 276,
             "end": 278
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part07_12_「逆接・譲歩」を表す接続詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1677,9 +1677,9 @@
             "start": 279,
             "end": 281
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part07_13_接続詞 vs. 前置詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1692,9 +1692,9 @@
             "start": 282,
             "end": 285
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part07_14_接続副詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1707,9 +1707,9 @@
             "start": 286,
             "end": 288
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part08_01_関係詞の働き.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1722,9 +1722,9 @@
             "start": 289,
             "end": 291
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part08_02_関係代名詞と関係副詞 — 関係詞決定の手順.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1737,9 +1737,9 @@
             "start": 292,
             "end": 294
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part08_03_関係代名詞 who, whom, which の用法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1752,9 +1752,9 @@
             "start": 295,
             "end": 297
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part08_04_関係代名詞 whose の用法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1767,9 +1767,9 @@
             "start": 298,
             "end": 300
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part08_05_関係代名詞 what の用法.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -1782,9 +1782,9 @@
             "start": 301,
             "end": 304
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part08_06_〈前置詞+関係代名詞〉の用法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1797,9 +1797,9 @@
             "start": 305,
             "end": 307
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part08_07_関係副詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1812,9 +1812,9 @@
             "start": 308,
             "end": 311
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part08_08_関係形容詞 what、その他の what.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1827,9 +1827,9 @@
             "start": 312,
             "end": 314
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part08_09_非制限用法で用いられる関係詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1842,9 +1842,9 @@
             "start": 315,
             "end": 317
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part08_10_連鎖関係詞.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -1857,9 +1857,9 @@
             "start": 318,
             "end": 320
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part08_11_その他の関係詞の用法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1872,9 +1872,9 @@
             "start": 321,
             "end": 324
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part08_12_whoever, whichever, whatever の用法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1887,9 +1887,9 @@
             "start": 325,
             "end": 329
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part08_13_whenever, wherever, however の用法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1902,9 +1902,9 @@
             "start": 330,
             "end": 331
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_01_前置詞 by の用法 (1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1917,9 +1917,9 @@
             "start": 332,
             "end": 333
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_02_前置詞 by の用法 (2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1932,9 +1932,9 @@
             "start": 334,
             "end": 336
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_03_前置詞 in の用法 (1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1947,9 +1947,9 @@
             "start": 337,
             "end": 339
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_04_前置詞 in の用法 (2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1962,9 +1962,9 @@
             "start": 340,
             "end": 341
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_05_前置詞 on の用法 (1).md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -1977,9 +1977,9 @@
             "start": 342,
             "end": 344
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_06_前置詞 on の用法 (2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -1992,9 +1992,9 @@
             "start": 345,
             "end": 347
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_07_前置詞 at の用法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2007,9 +2007,9 @@
             "start": 348,
             "end": 349
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_08_前置詞 from の用法 (1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2022,9 +2022,9 @@
             "start": 350,
             "end": 351
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_09_前置詞 from の用法 (2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2037,9 +2037,9 @@
             "start": 352,
             "end": 353
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_10_前置詞 to の用法 (1).md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -2052,9 +2052,9 @@
             "start": 354,
             "end": 356
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_11_前置詞 to の用法 (2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2067,9 +2067,9 @@
             "start": 357,
             "end": 359
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_12_前置詞 for の用法 (1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2082,9 +2082,9 @@
             "start": 360,
             "end": 362
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_13_前置詞 for の用法 (2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2097,9 +2097,9 @@
             "start": 363,
             "end": 364
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_14_前置詞 of の用法 (1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2112,9 +2112,9 @@
             "start": 365,
             "end": 366
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_15_前置詞 of の用法 (2).md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -2127,9 +2127,9 @@
             "start": 367,
             "end": 369
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_16_前置詞 of の用法 (3).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2142,9 +2142,9 @@
             "start": 370,
             "end": 372
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_17_前置詞 with の用法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2157,9 +2157,9 @@
             "start": 373,
             "end": 375
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_18_その他の前置詞の用法 (1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2172,9 +2172,9 @@
             "start": 376,
             "end": 378
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_19_その他の前置詞の用法 (2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
