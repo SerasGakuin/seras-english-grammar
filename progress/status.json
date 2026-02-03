@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-02T14:15:00.000000",
+  "last_updated": "2026-02-03T11:30:00.000000",
   "config": {
     "image_naming": "page_{:03d}.png",
     "dpi": 150,
@@ -2202,9 +2202,9 @@
             "start": 384,
             "end": 386
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part10_01_比較の基本原則.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2217,9 +2217,9 @@
             "start": 387,
             "end": 389
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part10_02_原級を用いた表現〈as ... as 〜〉.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2232,9 +2232,9 @@
             "start": 390,
             "end": 392
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part10_03_倍数表現、〈as ... as 〜〉を使う際の注意点.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2247,9 +2247,9 @@
             "start": 393,
             "end": 395
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part10_04_原級を使った重要表現(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2262,9 +2262,9 @@
             "start": 396,
             "end": 398
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part10_05_原級を使った重要表現(2).md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -2277,9 +2277,9 @@
             "start": 399,
             "end": 401
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part10_06_比較級・最上級の強調.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2292,9 +2292,9 @@
             "start": 402,
             "end": 404
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part10_07_比較級を使った重要表現(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2307,9 +2307,9 @@
             "start": 405,
             "end": 408
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part10_08_比較級を使った重要表現(2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2322,9 +2322,9 @@
             "start": 409,
             "end": 411
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part10_09_比較級を使った重要表現(3).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2337,9 +2337,9 @@
             "start": 412,
             "end": 414
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part10_10_比較級を使った重要表現(4).md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -2352,9 +2352,9 @@
             "start": 415,
             "end": 417
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part10_11_〈no more ... than 〜〉の構文.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2367,9 +2367,9 @@
             "start": 418,
             "end": 421
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part10_12_最上級相当表現.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2382,9 +2382,9 @@
             "start": 422,
             "end": 423
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part11_01_不定冠詞a[an]の使い方.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2397,9 +2397,9 @@
             "start": 424,
             "end": 426
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part11_02_定冠詞theの使い方.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2412,9 +2412,9 @@
             "start": 427,
             "end": 429
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part11_03_可算名詞or不可算名詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2427,9 +2427,9 @@
             "start": 430,
             "end": 431
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part11_04_「お客」の意味を表すさまざまな名詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2442,9 +2442,9 @@
             "start": 432,
             "end": 433
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part11_05_「料金」の意味を表すさまざまな名詞.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -2457,9 +2457,9 @@
             "start": 434,
             "end": 436
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part11_06_意味の紛らわしい名詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2472,9 +2472,9 @@
             "start": 437,
             "end": 439
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part11_07_注意すべき名詞の使い方.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2487,9 +2487,9 @@
             "start": 440,
             "end": 442
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part12_01_one,it,thatの用法.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2502,9 +2502,9 @@
             "start": 443,
             "end": 444
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part12_02_代名詞の相関的用法—theotherとtheothers.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2517,9 +2517,9 @@
             "start": 445,
             "end": 446
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part12_03_代名詞の相関的用法—anotherとothers.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2532,9 +2532,9 @@
             "start": 447,
             "end": 448
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part12_04_2者に対して使う代名詞—both,either,neither.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2547,9 +2547,9 @@
             "start": 449,
             "end": 450
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part12_05_3者以上に対して使う代名詞—all,any,noneなど.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -2562,9 +2562,9 @@
             "start": 451,
             "end": 455
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part12_06_itとthat,thisとthatはどう違う？.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2577,9 +2577,9 @@
             "start": 456,
             "end": 458
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part13_01_形容詞の働き.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2592,9 +2592,9 @@
             "start": 459,
             "end": 461
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part13_02_置かれる位置で意味の異なる形容詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2607,9 +2607,9 @@
             "start": 462,
             "end": 464
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part13_03_類似品にはご注意(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2622,9 +2622,9 @@
             "start": 465,
             "end": 466
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part13_04_類似品にはご注意(2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2637,9 +2637,9 @@
             "start": 467,
             "end": 468
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part13_05_類似品にはご注意(3).md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -2652,9 +2652,9 @@
             "start": 469,
             "end": 470
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part13_06_mostやalmostを攻略しよう.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2667,9 +2667,9 @@
             "start": 471,
             "end": 473
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part13_07_数量表現.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2682,9 +2682,9 @@
             "start": 474,
             "end": 475
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part13_08_特定の名詞と数量表現.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2697,9 +2697,9 @@
             "start": 476,
             "end": 479
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part13_09_形容詞の語順.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2712,9 +2712,9 @@
             "start": 480,
             "end": 481
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part14_01_副詞の働き.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2727,9 +2727,9 @@
             "start": 482,
             "end": 483
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part14_02_「頻度」や「程度」を表す副詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2742,9 +2742,9 @@
             "start": 484,
             "end": 486
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part14_03_類似品にはご注意.md",
+          "review_status": "flagged",
           "spot_check_required": false
         },
         {
@@ -2757,9 +2757,9 @@
             "start": 487,
             "end": 489
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part14_04_副詞so,too,howとその語順、文修飾の副詞、その他.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2772,9 +2772,9 @@
             "start": 490,
             "end": 492
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part15_01_否定について.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2787,9 +2787,9 @@
             "start": 493,
             "end": 495
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part15_02_倒置が起こるシステム(1).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2802,9 +2802,9 @@
             "start": 496,
             "end": 498
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part15_03_倒置が起こるシステム(2).md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -2817,9 +2817,9 @@
             "start": 499,
             "end": 504
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part15_04_there be構文について.md",
+          "review_status": "passed",
           "spot_check_required": false
         }
       ],
