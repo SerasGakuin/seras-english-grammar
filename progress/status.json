@@ -2187,9 +2187,9 @@
             "start": 379,
             "end": 383
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川/Part09_20_その他の前置詞の用法 (3).md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
