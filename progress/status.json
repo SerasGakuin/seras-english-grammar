@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-03T11:30:00.000000",
+  "last_updated": "2026-02-03T20:45:20.117638",
   "config": {
     "image_naming": "page_{:03d}.png",
     "dpi": 150,
@@ -2744,7 +2744,7 @@
           },
           "status": "completed",
           "output_file": "pdf/output/成川/Part14_03_類似品にはご注意.md",
-          "review_status": "flagged",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -6258,7 +6258,7 @@
       "notes": "入門英文問題精講の別冊（問題・語句）"
     },
     "成川_別冊": {
-      "status": "toc_completed",
+      "status": "completed",
       "files": {
         "main": [
           "成川_別冊.pdf"
@@ -6284,9 +6284,9 @@
             "start": 2,
             "end": 27
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part01_動詞の語法と文型.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -6297,9 +6297,9 @@
             "start": 28,
             "end": 29
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part02_受動態.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -6310,9 +6310,9 @@
             "start": 30,
             "end": 33
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part03_時制.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -6323,9 +6323,9 @@
             "start": 34,
             "end": 38
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part04_助動詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -6336,9 +6336,9 @@
             "start": 39,
             "end": 42
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part05_仮定法.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -6349,9 +6349,9 @@
             "start": 43,
             "end": 52
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part06_準動詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -6362,9 +6362,9 @@
             "start": 53,
             "end": 63
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part07_接続詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -6375,9 +6375,9 @@
             "start": 64,
             "end": 71
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part08_関係詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -6388,9 +6388,9 @@
             "start": 72,
             "end": 82
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part09_前置詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -6401,9 +6401,9 @@
             "start": 83,
             "end": 87
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part10_比較.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -6414,9 +6414,9 @@
             "start": 88,
             "end": 99
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part11_冠詞・名詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -6427,9 +6427,9 @@
             "start": 100,
             "end": 105
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part12_代名詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -6440,9 +6440,9 @@
             "start": 106,
             "end": 116
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part13_形容詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -6453,9 +6453,9 @@
             "start": 117,
             "end": 122
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part14_副詞.md",
+          "review_status": "passed",
           "spot_check_required": false
         },
         {
@@ -6466,9 +6466,9 @@
             "start": 123,
             "end": 130
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Part15_特殊構文・その他.md",
+          "review_status": "passed",
           "spot_check_required": true
         },
         {
@@ -6479,9 +6479,9 @@
             "start": 131,
             "end": 180
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/成川_別冊/Matome_基本例文のまとめ.md",
+          "review_status": "passed",
           "spot_check_required": false
         }
       ]
