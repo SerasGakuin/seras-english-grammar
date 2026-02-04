@@ -3002,13 +3002,14 @@
           "chapter": 1,
           "title": "時制",
           "book_pages": {
-            "start": 49,
+            "start": 48,
             "end": 58
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": true
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part1_Ch01_時制.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": true,
+          "completed_at": "2026-02-04T10:00:00Z"
         },
         {
           "id": "Part1_Ch02",
@@ -3017,13 +3018,14 @@
           "chapter": 2,
           "title": "受動態",
           "book_pages": {
-            "start": 59,
+            "start": 58,
             "end": 66
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": false
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part1_Ch02_受動態.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": false,
+          "completed_at": "2026-02-04T10:30:00Z"
         },
         {
           "id": "Part1_Ch03",
@@ -3035,10 +3037,11 @@
             "start": 67,
             "end": 76
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": false
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part1_Ch03_助動詞.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": false,
+          "completed_at": "2026-02-04T11:00:00Z"
         },
         {
           "id": "Part1_Ch04",
@@ -3047,13 +3050,14 @@
           "chapter": 4,
           "title": "不定詞",
           "book_pages": {
-            "start": 77,
+            "start": 76,
             "end": 84
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": false
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part1_Ch04_不定詞.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": false,
+          "completed_at": "2026-02-04T11:30:00Z"
         },
         {
           "id": "Part1_Ch05",
@@ -3062,13 +3066,14 @@
           "chapter": 5,
           "title": "動名詞",
           "book_pages": {
-            "start": 85,
+            "start": 84,
             "end": 90
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": true
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part1_Ch05_動名詞.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": true,
+          "completed_at": "2026-02-04T12:00:00Z"
         },
         {
           "id": "Part1_Ch06",
@@ -3077,13 +3082,14 @@
           "chapter": 6,
           "title": "分詞",
           "book_pages": {
-            "start": 91,
+            "start": 90,
             "end": 98
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": false
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part1_Ch06_分詞.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": false,
+          "completed_at": "2026-02-04T12:30:00Z"
         },
         {
           "id": "Part1_Ch07",
@@ -3092,13 +3098,14 @@
           "chapter": 7,
           "title": "仮定法",
           "book_pages": {
-            "start": 99,
+            "start": 98,
             "end": 106
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": false
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part1_Ch07_仮定法.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": false,
+          "completed_at": "2026-02-04T13:00:00Z"
         },
         {
           "id": "Part1_Ch08",
@@ -3123,7 +3130,7 @@
           "title": "疑問",
           "book_pages": {
             "start": 125,
-            "end": 132
+            "end": 131
           },
           "status": "pending",
           "output_file": null,
@@ -3476,7 +3483,7 @@
           "spot_check_required": false
         }
       ],
-      "completed_chapters": 0,
+      "completed_chapters": 14,
       "total_chapters": 32,
       "notes": ""
     },
