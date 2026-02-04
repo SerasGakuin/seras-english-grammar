@@ -3114,13 +3114,14 @@
           "chapter": 8,
           "title": "比較",
           "book_pages": {
-            "start": 107,
+            "start": 106,
             "end": 124
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": false
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part1_Ch08_比較.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": false,
+          "completed_at": "2026-02-04T13:30:00Z"
         },
         {
           "id": "Part1_Ch09",
@@ -3129,13 +3130,14 @@
           "chapter": 9,
           "title": "疑問",
           "book_pages": {
-            "start": 125,
+            "start": 124,
             "end": 131
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": false
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part1_Ch09_疑問.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": false,
+          "completed_at": "2026-02-04T14:00:00Z"
         },
         {
           "id": "Part1_Ch10",
@@ -3144,13 +3146,14 @@
           "chapter": 10,
           "title": "否定",
           "book_pages": {
-            "start": 133,
+            "start": 132,
             "end": 140
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": true
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part1_Ch10_否定.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": true,
+          "completed_at": "2026-02-04T14:30:00Z"
         },
         {
           "id": "Part1_Ch11",
@@ -3159,13 +3162,14 @@
           "chapter": 11,
           "title": "代名詞",
           "book_pages": {
-            "start": 141,
+            "start": 140,
             "end": 156
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": false
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part1_Ch11_代名詞.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": false,
+          "completed_at": "2026-02-04T15:00:00Z"
         },
         {
           "id": "Part1_Ch12",
@@ -3174,13 +3178,14 @@
           "chapter": 12,
           "title": "関係詞",
           "book_pages": {
-            "start": 157,
+            "start": 156,
             "end": 172
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": false
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part1_Ch12_関係詞.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": false,
+          "completed_at": "2026-02-04T15:00:00Z"
         },
         {
           "id": "Part1_Ch13",
@@ -3189,13 +3194,14 @@
           "chapter": 13,
           "title": "接続詞",
           "book_pages": {
-            "start": 173,
+            "start": 172,
             "end": 192
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": false
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part1_Ch13_接続詞.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": false,
+          "completed_at": "2026-02-04T15:00:00Z"
         },
         {
           "id": "Part1_Ch14",
@@ -3204,13 +3210,14 @@
           "chapter": 14,
           "title": "強調・倒置・省略・代用",
           "book_pages": {
-            "start": 193,
+            "start": 192,
             "end": 202
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": false
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part1_Ch14_強調・倒置・省略・代用.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": false,
+          "completed_at": "2026-02-04T15:00:00Z"
         },
         {
           "id": "Part2_Ch15",
