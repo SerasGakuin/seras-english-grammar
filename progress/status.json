@@ -3226,12 +3226,12 @@
           "chapter": 15,
           "title": "動詞の語法",
           "book_pages": {
-            "start": 203,
-            "end": 238
+            "start": 202,
+            "end": 237
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part2_Ch15_動詞の語法.md",
+          "review_status": "codex_passed",
           "spot_check_required": true
         },
         {
@@ -3241,12 +3241,12 @@
           "chapter": 16,
           "title": "名詞・冠詞の語法",
           "book_pages": {
-            "start": 239,
+            "start": 238,
             "end": 250
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part2_Ch16_名詞・冠詞の語法.md",
+          "review_status": "subagent_reviewed",
           "spot_check_required": false
         },
         {
@@ -3259,9 +3259,9 @@
             "start": 251,
             "end": 260
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part2_Ch17_形容詞の語法.md",
+          "review_status": "subagent_reviewed",
           "spot_check_required": false
         },
         {
@@ -3272,11 +3272,11 @@
           "title": "副詞の語法",
           "book_pages": {
             "start": 261,
-            "end": 268
+            "end": 267
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part2_Ch18_副詞の語法.md",
+          "review_status": "subagent_reviewed",
           "spot_check_required": false
         },
         {
@@ -3286,12 +3286,12 @@
           "chapter": 19,
           "title": "前置詞の語法",
           "book_pages": {
-            "start": 269,
+            "start": 268,
             "end": 282
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part2_Ch19_前置詞の語法.md",
+          "review_status": "subagent_reviewed",
           "spot_check_required": false
         },
         {
@@ -3301,12 +3301,12 @@
           "chapter": 20,
           "title": "意外な意味を持つ単語",
           "book_pages": {
-            "start": 283,
-            "end": 296
+            "start": 282,
+            "end": 295
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part3_Ch20_意外な意味を持つ単語.md",
+          "review_status": "subagent_reviewed",
           "spot_check_required": true
         },
         {
@@ -3316,12 +3316,12 @@
           "chapter": 21,
           "title": "重要同意語",
           "book_pages": {
-            "start": 297,
-            "end": 312
+            "start": 296,
+            "end": 311
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part3_Ch21_重要同意語.md",
+          "review_status": "subagent_reviewed",
           "spot_check_required": false
         },
         {
@@ -3331,12 +3331,12 @@
           "chapter": 22,
           "title": "重要多義語",
           "book_pages": {
-            "start": 313,
-            "end": 322
+            "start": 312,
+            "end": 321
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part3_Ch22_重要多義語.md",
+          "review_status": "subagent_reviewed",
           "spot_check_required": false
         },
         {
@@ -3346,12 +3346,12 @@
           "chapter": 23,
           "title": "まぎらわしい語",
           "book_pages": {
-            "start": 323,
-            "end": 334
+            "start": 322,
+            "end": 332
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part3_Ch23_まぎらわしい語.md",
+          "review_status": "subagent_reviewed",
           "spot_check_required": false
         },
         {
