@@ -3361,13 +3361,14 @@
           "chapter": 24,
           "title": "動詞中心のイディオム",
           "book_pages": {
-            "start": 335,
-            "end": 378
+            "start": 334,
+            "end": 377
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": false
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part4_Ch24_動詞中心のイディオム.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": false,
+          "completed_at": "2026-02-05T01:12:00+09:00"
         },
         {
           "id": "Part4_Ch25",
@@ -3376,13 +3377,14 @@
           "chapter": 25,
           "title": "形容詞・副詞中心のイディオム",
           "book_pages": {
-            "start": 379,
-            "end": 390
+            "start": 378,
+            "end": 389
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": true
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part4_Ch25_形容詞・副詞中心のイディオム.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": true,
+          "completed_at": "2026-02-05T01:17:00+09:00"
         },
         {
           "id": "Part4_Ch26",
@@ -3391,13 +3393,14 @@
           "chapter": 26,
           "title": "名詞中心のイディオム",
           "book_pages": {
-            "start": 391,
-            "end": 404
+            "start": 390,
+            "end": 403
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": false
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part4_Ch26_名詞中心のイディオム.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": false,
+          "completed_at": "2026-02-05T01:19:00+09:00"
         },
         {
           "id": "Part4_Ch27",
@@ -3406,13 +3409,14 @@
           "chapter": 27,
           "title": "前置詞の働きをするイディオム ── 群前置詞",
           "book_pages": {
-            "start": 405,
-            "end": 414
+            "start": 404,
+            "end": 412
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": false
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part4_Ch27_群前置詞.md",
+          "review_status": "subagent_reviewed",
+          "spot_check_required": false,
+          "completed_at": "2026-02-05T01:17:00+09:00"
         },
         {
           "id": "Part5_Ch28",
