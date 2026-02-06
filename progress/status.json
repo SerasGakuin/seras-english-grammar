@@ -3432,7 +3432,8 @@
           "output_file": null,
           "review_status": null,
           "spot_check_required": false,
-          "pages": "414-423"
+          "pages": "414-423",
+          "reviewed": "codex_passed"
         },
         {
           "id": "Part5_Ch29",
@@ -3448,7 +3449,8 @@
           "output_file": null,
           "review_status": null,
           "spot_check_required": false,
-          "pages": "424-437"
+          "pages": "424-437",
+          "reviewed": "codex_passed"
         },
         {
           "id": "Part6_Ch30",
@@ -3480,7 +3482,8 @@
           "output_file": null,
           "review_status": null,
           "spot_check_required": false,
-          "pages": "460-476"
+          "pages": "460-476",
+          "reviewed": "codex_passed"
         },
         {
           "id": "Special",
@@ -3496,7 +3499,8 @@
           "output_file": null,
           "review_status": null,
           "spot_check_required": false,
-          "pages": "477-496"
+          "pages": "477-496",
+          "reviewed": "codex_passed"
         }
       ],
       "completed_chapters": 15,
