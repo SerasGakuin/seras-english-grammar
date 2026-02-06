@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-03T20:45:20.117638",
+  "last_updated": "2026-02-07T07:16:47.834756",
   "config": {
     "image_naming": "page_{:03d}.png",
     "dpi": 150,
@@ -3508,7 +3508,7 @@
       "notes": ""
     },
     "肘井": {
-      "status": "toc_completed",
+      "status": "completed",
       "files": {
         "main": [
           "肘井.pdf"
@@ -3535,6 +3535,66 @@
       "toc_pages": null,
       "chapters": [
         {
+          "id": "Intro_01",
+          "chapter": "前付け",
+          "chapter_title": "前付け",
+          "number": "Intro_01",
+          "title": "はじめに",
+          "book_pages": {
+            "start": 2,
+            "end": 5
+          },
+          "status": "completed",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Intro_02",
+          "chapter": "前付け",
+          "chapter_title": "前付け",
+          "number": "Intro_02",
+          "title": "本書の特長",
+          "book_pages": {
+            "start": 6,
+            "end": 7
+          },
+          "status": "completed",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Intro_03",
+          "chapter": "前付け",
+          "chapter_title": "前付け",
+          "number": "Intro_03",
+          "title": "本編に入る前に",
+          "book_pages": {
+            "start": 8,
+            "end": 9
+          },
+          "status": "completed",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": true
+        },
+        {
+          "id": "Intro_04",
+          "chapter": "前付け",
+          "chapter_title": "前付け",
+          "number": "Intro_04",
+          "title": "音声ダウンロードについて",
+          "book_pages": {
+            "start": 10,
+            "end": 11
+          },
+          "status": "completed",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
           "id": "Theme_01",
           "chapter": "序章",
           "chapter_title": "SVの発見編",
@@ -3544,7 +3604,7 @@
             "start": 12,
             "end": 17
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": true
@@ -3559,7 +3619,7 @@
             "start": 18,
             "end": 25
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3574,7 +3634,7 @@
             "start": 26,
             "end": 31
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3589,7 +3649,7 @@
             "start": 32,
             "end": 37
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3604,7 +3664,7 @@
             "start": 38,
             "end": 43
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3619,7 +3679,7 @@
             "start": 44,
             "end": 47
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": true
@@ -3634,7 +3694,7 @@
             "start": 48,
             "end": 51
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3649,7 +3709,7 @@
             "start": 52,
             "end": 57
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3664,7 +3724,7 @@
             "start": 58,
             "end": 63
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3679,7 +3739,7 @@
             "start": 64,
             "end": 69
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3694,7 +3754,7 @@
             "start": 70,
             "end": 75
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3709,7 +3769,7 @@
             "start": 76,
             "end": 79
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": true
@@ -3724,7 +3784,7 @@
             "start": 80,
             "end": 85
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3739,7 +3799,7 @@
             "start": 86,
             "end": 91
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3754,7 +3814,7 @@
             "start": 92,
             "end": 97
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3769,7 +3829,7 @@
             "start": 98,
             "end": 105
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3784,7 +3844,7 @@
             "start": 106,
             "end": 109
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3799,7 +3859,7 @@
             "start": 110,
             "end": 113
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": true
@@ -3814,7 +3874,7 @@
             "start": 114,
             "end": 117
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": true
@@ -3829,7 +3889,7 @@
             "start": 118,
             "end": 121
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3844,7 +3904,7 @@
             "start": 122,
             "end": 125
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3859,7 +3919,7 @@
             "start": 126,
             "end": 129
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3874,7 +3934,7 @@
             "start": 130,
             "end": 135
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3889,7 +3949,7 @@
             "start": 136,
             "end": 141
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": true
@@ -3904,7 +3964,7 @@
             "start": 142,
             "end": 147
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3919,7 +3979,7 @@
             "start": 148,
             "end": 151
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3934,7 +3994,7 @@
             "start": 152,
             "end": 157
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3949,7 +4009,7 @@
             "start": 158,
             "end": 163
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3964,7 +4024,7 @@
             "start": 164,
             "end": 169
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -3979,7 +4039,7 @@
             "start": 170,
             "end": 175
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": true
@@ -3994,7 +4054,7 @@
             "start": 176,
             "end": 179
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -4009,7 +4069,7 @@
             "start": 180,
             "end": 183
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -4024,7 +4084,7 @@
             "start": 184,
             "end": 189
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -4039,7 +4099,7 @@
             "start": 190,
             "end": 193
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -4054,7 +4114,7 @@
             "start": 194,
             "end": 197
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": true
@@ -4069,7 +4129,7 @@
             "start": 198,
             "end": 201
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -4084,7 +4144,7 @@
             "start": 202,
             "end": 205
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -4099,14 +4159,44 @@
             "start": 206,
             "end": 211
           },
-          "status": "pending",
+          "status": "completed",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Appendix_01",
+          "chapter": "後付け",
+          "chapter_title": "後付け",
+          "number": "Appendix_01",
+          "title": "各テーマの例題一覧",
+          "book_pages": {
+            "start": 210,
+            "end": 223
+          },
+          "status": "completed",
+          "output_file": null,
+          "review_status": null,
+          "spot_check_required": false
+        },
+        {
+          "id": "Appendix_02",
+          "chapter": "後付け",
+          "chapter_title": "後付け",
+          "number": "Appendix_02",
+          "title": "おわりに",
+          "book_pages": {
+            "start": 224,
+            "end": 228
+          },
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
         }
       ],
       "completed_chapters": 0,
-      "total_chapters": 38,
+      "total_chapters": 44,
       "notes": ""
     },
     "入門英文": {
@@ -5214,7 +5304,7 @@
       "notes": ""
     },
     "はじめの英文読解ドリル": {
-      "status": "toc_completed",
+      "status": "completed",
       "files": {
         "main": [
           "はじめの英文読解ドリル.pdf"
@@ -5242,10 +5332,12 @@
             "start": 8,
             "end": 11
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": true
+          "status": "completed",
+          "output_file": "Ch01_01_5文型と「M」.md",
+          "review_status": "pass",
+          "spot_check_required": true,
+          "spot_check_result": "fixed",
+          "spot_check_note": "括弧位置修正: 「C」の2つの役割しかない"
         },
         {
           "id": "Ch01_02",
@@ -5257,9 +5349,9 @@
             "start": 12,
             "end": 15
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch01_02_文型の判別＆複数の文型をとる動詞①.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5272,9 +5364,9 @@
             "start": 16,
             "end": 19
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch01_03_文型の判別＆複数の文型をとる動詞②.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5287,9 +5379,9 @@
             "start": 20,
             "end": 23
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch01_04_SVCをとれる動詞.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5302,10 +5394,11 @@
             "start": 24,
             "end": 27
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": true
+          "status": "completed",
+          "output_file": "Ch01_05_SVO+O₂をとれる動詞.md",
+          "review_status": "pass",
+          "spot_check_required": true,
+          "spot_check_result": "pass"
         },
         {
           "id": "Ch01_06",
@@ -5317,9 +5410,9 @@
             "start": 28,
             "end": 33
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch01_06_SVOCをとれる動詞.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5332,9 +5425,9 @@
             "start": 34,
             "end": 37
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch02_01_SVO+to do.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5347,9 +5440,9 @@
             "start": 38,
             "end": 41
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch02_02_SVO+do_doing_done.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5362,9 +5455,9 @@
             "start": 42,
             "end": 45
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch02_03_1つのVと見なす形_助動詞的な表現.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5377,9 +5470,9 @@
             "start": 46,
             "end": 49
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch02_04_SVO＋決まった前置詞句①.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5392,10 +5485,11 @@
             "start": 50,
             "end": 53
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": true
+          "status": "completed",
+          "output_file": "Ch02_05_SVO＋決まった前置詞句②.md",
+          "review_status": "pass",
+          "spot_check_required": true,
+          "spot_check_result": "pass"
         },
         {
           "id": "Ch02_06",
@@ -5407,9 +5501,9 @@
             "start": 54,
             "end": 57
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch02_06_受動態①.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5422,9 +5516,9 @@
             "start": 58,
             "end": 61
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch02_07_受動態②.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5437,9 +5531,9 @@
             "start": 62,
             "end": 67
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch02_08_There_VS構文.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5452,9 +5546,9 @@
             "start": 68,
             "end": 71
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch03_01_名詞句_動名詞・不定詞・疑問詞＋不定詞.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5467,9 +5561,9 @@
             "start": 72,
             "end": 75
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch03_02_名詞節①_疑問代名詞・関係代名詞.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5482,9 +5576,9 @@
             "start": 76,
             "end": 79
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch03_03_名詞節②_疑問副詞・関係副詞.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5497,9 +5591,9 @@
             "start": 80,
             "end": 83
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch03_04_名詞節③_接続詞.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5512,10 +5606,12 @@
             "start": 84,
             "end": 89
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": true
+          "status": "completed",
+          "output_file": "Ch03_05_形式のit.md",
+          "review_status": "pass",
+          "spot_check_required": true,
+          "spot_check_result": "fixed",
+          "spot_check_note": "見出しフォーマット修正"
         },
         {
           "id": "Ch04_01",
@@ -5527,9 +5623,9 @@
             "start": 90,
             "end": 93
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch04_01_形容詞句_不定詞・分詞.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5542,9 +5638,9 @@
             "start": 94,
             "end": 97
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch04_02_形容詞節①_関係代名詞.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5557,9 +5653,9 @@
             "start": 98,
             "end": 101
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch04_03_形容詞節②_前置詞＋関係代名詞／関係副詞.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5572,9 +5668,9 @@
             "start": 102,
             "end": 105
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch04_04_副詞句①_不定詞.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5587,10 +5683,12 @@
             "start": 106,
             "end": 109
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": true
+          "status": "completed",
+          "output_file": "Ch04_05_副詞句②_分詞構文.md",
+          "review_status": "pass",
+          "spot_check_required": true,
+          "spot_check_result": "fixed",
+          "spot_check_note": "見出しフォーマット修正"
         },
         {
           "id": "Ch04_06",
@@ -5602,9 +5700,9 @@
             "start": 110,
             "end": 115
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch04_06_副詞節_接続詞.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5617,9 +5715,9 @@
             "start": 116,
             "end": 119
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch05_01_意味上の主語①_不定詞.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5632,9 +5730,9 @@
             "start": 120,
             "end": 125
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch05_02_意味上の主語②_動名詞・分詞構文.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5647,9 +5745,9 @@
             "start": 126,
             "end": 129
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch06_01_名詞構文.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5662,9 +5760,9 @@
             "start": 130,
             "end": 133
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch06_02_Sを\"副詞\"的に捉える_無生物主語構文.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5677,9 +5775,9 @@
             "start": 134,
             "end": 137
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch06_03_同格.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5692,9 +5790,9 @@
             "start": 138,
             "end": 141
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch06_04_並列と共通.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
@@ -5707,10 +5805,12 @@
             "start": 142,
             "end": 145
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": true
+          "status": "completed",
+          "output_file": "Ch06_05_強調構文.md",
+          "review_status": "pass",
+          "spot_check_required": true,
+          "spot_check_result": "fixed",
+          "spot_check_note": "前のA→前のOに修正"
         },
         {
           "id": "Ch06_06",
@@ -5722,43 +5822,43 @@
             "start": 146,
             "end": 149
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Ch06_06_倒置.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
-          "id": "Ch06_01",
+          "id": "Exam_01",
           "chapter": 6,
-          "chapter_title": "「その他の重要事項」を始める前に",
+          "chapter_title": "入試実戦演習",
           "number": "1",
-          "title": "問題",
+          "title": "入試実戦演習①",
           "book_pages": {
             "start": 150,
             "end": 154
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Exam_01_入試実戦演習①.md",
+          "review_status": "pass",
           "spot_check_required": false
         },
         {
-          "id": "Ch06_02",
+          "id": "Exam_02",
           "chapter": 6,
-          "chapter_title": "「その他の重要事項」を始める前に",
+          "chapter_title": "入試実戦演習",
           "number": "2",
-          "title": "問題",
+          "title": "入試実戦演習②",
           "book_pages": {
             "start": 155,
             "end": 158
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
+          "status": "completed",
+          "output_file": "Exam_02_入試実戦演習②.md",
+          "review_status": "pass",
           "spot_check_required": false
         }
       ],
-      "completed_chapters": 0,
+      "completed_chapters": 35,
       "total_chapters": 35,
       "notes": ""
     },
@@ -6514,7 +6614,7 @@
       ]
     },
     "肘井_別冊": {
-      "status": "toc_completed",
+      "status": "completed",
       "files": {
         "main": [
           "肘井_別冊.pdf"
@@ -6541,7 +6641,7 @@
             "start": 2,
             "end": 5
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": true
@@ -6555,7 +6655,7 @@
             "start": 6,
             "end": 19
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -6569,7 +6669,7 @@
             "start": 20,
             "end": 33
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -6583,7 +6683,7 @@
             "start": 34,
             "end": 55
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": false
@@ -6597,7 +6697,7 @@
             "start": 56,
             "end": 80
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
           "spot_check_required": true
