@@ -3428,10 +3428,11 @@
             "start": 415,
             "end": 424
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
-          "spot_check_required": false
+          "spot_check_required": false,
+          "pages": "414-423"
         },
         {
           "id": "Part5_Ch29",
@@ -3443,10 +3444,11 @@
             "start": 425,
             "end": 438
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
-          "spot_check_required": false
+          "spot_check_required": false,
+          "pages": "424-437"
         },
         {
           "id": "Part6_Ch30",
@@ -3456,12 +3458,13 @@
           "title": "発音問題 ポイント23",
           "book_pages": {
             "start": 439,
-            "end": 460
+            "end": 459
           },
-          "status": "pending",
-          "output_file": null,
-          "review_status": null,
-          "spot_check_required": true
+          "status": "completed",
+          "output_file": "pdf/output/スクランブル/Part6_Ch30_発音問題_ポイント23.md",
+          "review_status": "passed",
+          "spot_check_required": true,
+          "pages": "438-459"
         },
         {
           "id": "Part6_Ch31",
@@ -3473,10 +3476,11 @@
             "start": 461,
             "end": 477
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
-          "spot_check_required": false
+          "spot_check_required": false,
+          "pages": "460-476"
         },
         {
           "id": "Special",
@@ -3488,13 +3492,14 @@
             "start": 478,
             "end": 497
           },
-          "status": "pending",
+          "status": "completed",
           "output_file": null,
           "review_status": null,
-          "spot_check_required": false
+          "spot_check_required": false,
+          "pages": "477-496"
         }
       ],
-      "completed_chapters": 14,
+      "completed_chapters": 15,
       "total_chapters": 32,
       "notes": ""
     },
