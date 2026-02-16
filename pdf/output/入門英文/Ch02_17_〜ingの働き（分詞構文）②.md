@@ -8,7 +8,9 @@
 
 ## 精講
 
-(In a study (❶published in the journal *Nature*)), ₛ**scientists** ᵥ❷**have** now accurately **dated** ₒ**two human teeth** (first ❸discovered (on the island of Sumatra) (in the late 19th century)), (₍ᵥ₎❹showing ₍ₒ₎[ₛour ancestors ᵥ❺**were** living there (between 73,000 等接and 63,000 years ago)]).
+> (In a study (❶published in the journal *Nature*)), {S}scientists {V}❷have now accurately dated {O}two human teeth (first ❸discovered (on the island of Sumatra) (in the late 19th century)), ({v}❹showing {o}[{S}our ancestors {V}❺were living there (between 73,000 {等接}and 63,000 years ago)]).
+
+In a study published in the journal *Nature*, scientists have now accurately dated two human teeth first discovered on the island of Sumatra in the late 19th century, showing our ancestors were living there between 73,000 and 63,000 years ago.
 
 ### ❶　published は過去形？　過去分詞形？　〔分詞〕
 

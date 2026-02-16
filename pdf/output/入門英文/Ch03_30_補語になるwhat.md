@@ -8,7 +8,9 @@
 
 ## 精講
 
-ₛComputer games ᵥare ᴄ❶a form of story, 等接and ₛhuman beings ᵥare ᴄdevoted storytellers. [❷従接As ₛYuval Noah Harari ᵥargues (in his book *Sapiens*)], ₛthe ability (to create binding fictions) ᵥis ᴄ[ₛ❸what ᵥ❹enabled ₒus ₒ(to ₍ᵥ₎become ₍ᴄ₎the most dominant species on the planet)].
+> {S}Computer games {V}are {C}❶a form of story, {等接}and {S}human beings {V}are {C}devoted storytellers. [❷{従接}As {S}Yuval Noah Harari {V}argues (in his book *Sapiens*)], {S}the ability (to create binding fictions) {V}is {C}[{S}❸what {V}❹enabled {O}us {O}(to {v}become {c}the most dominant species on the planet)].
+
+Computer games are a form of story, and human beings are devoted storytellers. As Yuval Noah Harari argues in his book *Sapiens*, the ability to create binding fictions is what enabled us to become the most dominant species on the planet.
 
 ### ❶　a form of story でよい？　〔その他〕
 

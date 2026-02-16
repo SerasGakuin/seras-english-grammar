@@ -8,7 +8,9 @@
 
 ## 精講
 
-(❶In 1844), ₛa **sea captain** (❷named Jonathan Walker) ᵥ**was** ❸**caught** ᴄ(₍ᵥ₎❹helping ₍ₒ₎eight slaves ₍ᴄ₎escape (by boat) (from ❺Pensacola, Florida)).
+> (❶In 1844), {S}a sea captain (❷named Jonathan Walker) {V}was ❸caught {C}({v}❹helping {o}eight slaves {c}escape (by boat) (from ❺Pensacola, Florida)).
+
+In 1844, a sea captain named Jonathan Walker was caught helping eight slaves escape by boat from Pensacola, Florida.
 
 ### ❶　In 1844 は形容詞？　副詞？　〔副詞〕
 

@@ -4,7 +4,9 @@
 
 ## 精講
 
-ₛ❶**Scientific knowledge** ᵥ**is based** (on observations (of the natural world)). 等接But ₛ₍ᵥ₎❷**observing** ₍ₒ₎the natural world) ᵥ**is** 等接neither ❸as ᴄ**simple** 等接nor as ᴄ**solitary an activity** [従接as ₛ**it** ᵥ**might sound**].
+> {S}❶Scientific knowledge {V}is based (on observations (of the natural world)). {等接}But {S}{v}❷observing {o}the natural world) {V}is {等接}neither ❸as {C}simple {等接}nor as {C}solitary an activity [{従接}as {S}it {V}might sound].
+
+Scientific knowledge is based on observations of the natural world. But observing the natural world is neither as simple nor as solitary an activity as it might sound.
 
 ### ❶ 第1文の意味は？
 

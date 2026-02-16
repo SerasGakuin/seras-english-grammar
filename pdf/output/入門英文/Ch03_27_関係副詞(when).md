@@ -8,7 +8,9 @@
 
 ## 精講
 
-ₛ(₍ᵥ₎❶Becoming ₍c₎an adult) ᵥis ᴄa step-by-step process, and ₛ[just ❷❸when ₛthe young ᵥare finally ᴄwise enough (to be treated as young adults)] ᵥ**is not** ᴄthe time (❹to ₍ᵥ₎give ₍ₒ₎them ₍ₒ₎free access (to ❺the drinks bar)). ［中略］ ₛ(❻... drinking by the young) ᵥleads to ₒ**accidents**, **injuries**, and **deaths**.
+> {S}({v}❶Becoming {c}an adult) {V}is {C}a step-by-step process, and {S}[just ❷❸when {S}the young {V}are finally {C}wise enough (to be treated as young adults)] {V}is not {C}the time (❹to {v}give {o}them {o}free access (to ❺the drinks bar)). ［中略］ {S}(❻... drinking by the young) {V}leads to {O}accidents, injuries, and deaths.
+
+Becoming an adult is a step-by-step process, and just when the young are finally wise enough to be treated as young adults is not the time to give them free access to the drinks bar. [中略] ... drinking by the young leads to accidents, injuries, and deaths.
 
 ### ❶　Becoming は何？　〔動名詞〕
 

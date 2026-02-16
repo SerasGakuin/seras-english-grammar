@@ -8,7 +8,9 @@
 
 ## 精講
 
-等接But ₛ疑which ᵥ**is** actually ᴄbetter for us, (₍ᵥ₎❶getting ₍ₒ₎good news first 等接or ₍ₒ₎bad)? ₛA third study ᵥ**suggests** ₒ[❷従接that ₛthe answer (to this important question) ᵥdepends on ₒ[❸従接whether ₛyou ᵥare focused on your mood 等接or on changing your behavior]].
+> {等接}But {S}疑which {V}is actually {C}better for us, ({v}❶getting {o}good news first {等接}or {o}bad)? {S}A third study {V}suggests {O}[❷{従接}that {S}the answer (to this important question) {V}depends on {O}[❸{従接}whether {S}you {V}are focused on your mood {等接}or on changing your behavior]].
+
+But which is actually better for us, getting good news first or bad? A third study suggests that the answer to this important question depends on whether you are focused on your mood or on changing your behavior.
 
 ### ❶　getting はどうなっているの？　〔動名詞〕
 

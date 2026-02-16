@@ -4,7 +4,9 @@
 
 ## 精講
 
-ₛ**Tea** ᵥ❶**can be divided** (into several types) (❷based on [❸how much ₛthe picked tea leaves ᵥreact to oxygen]). ❹[The longer ₛthe leaf ᵥgoes through ₒthis reaction process], ᴄ**the stronger** ₛ**its taste** 等接and **smell** ᵥ**become**.
+> {S}Tea {V}❶can be divided (into several types) (❷based on [❸how much {S}the picked tea leaves {V}react to oxygen]). ❹[The longer {S}the leaf {V}goes through {O}this reaction process], {C}the stronger {S}its taste {等接}and smell {V}become.
+
+Tea can be divided into several types based on how much the picked tea leaves react to oxygen. The longer the leaf goes through this reaction process, the stronger its taste and smell become.
 
 ### ❶ can be divided はどう訳すの？　〔態〕
 

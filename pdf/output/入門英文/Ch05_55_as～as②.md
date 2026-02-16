@@ -4,7 +4,9 @@
 
 ## 精講
 
-ₛ**Pop singers** ᵥ**are** often **judged** (❶as much on the basis of [how ₛ**they** ᵥ**look**] 従接as [how ₛ**they** ᵥ**sound**]). Therefore, ₛ**opera singers**, (❷performing to audiences (influenced by this popular culture)), ᵥ**are** now ❸**expected** ᴄ**to be "models** [ₛ関代who ᵥ**sing**]." ₛ**These demands** ᵥ**may be** ᴄ**unrealistic** ❹等接and ᴄ**possibly harmful**.
+> {S}Pop singers {V}are often judged (❶as much on the basis of [how {S}they {V}look] {従接}as [how {S}they {V}sound]). Therefore, {S}opera singers, (❷performing to audiences (influenced by this popular culture)), {V}are now ❸expected {C}to be "models [{S}{関代}who {V}sing]." {S}These demands {V}may be {C}unrealistic ❹{等接}and {C}possibly harmful.
+
+Pop singers are often judged as much on the basis of how they look as how they sound. Therefore, opera singers, performing to audiences influenced by this popular culture, are now expected to be "models who sing." These demands may be unrealistic and possibly harmful.
 
 ### ❶ as much ... as の構造は？　**Point**　〔比較〕
 

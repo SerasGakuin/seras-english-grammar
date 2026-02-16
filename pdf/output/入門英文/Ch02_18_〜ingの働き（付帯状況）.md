@@ -8,7 +8,9 @@
 
 ## 精講
 
-[❶Even though 従接 ₛthey ᵥinvolved ₒathletes (from 164 countries)], ₛ**officials** ᵥ**admit** ₒ[❷that 従接 ₛthe London Paralympic Games ᵥwere not ᴄa truly global event]. ₛDeveloping nations ᵥwere ᴄ❸**under-represented**, (❹with ₍ₛ₎competitors ₍ᵥ₎facing ₍ₒ₎obstacles (❺ranging from (prejudice against disability) to (the high cost of wheelchairs 等接and artificial limbs))).
+> [❶Even though {従接} {S}they {V}involved {O}athletes (from 164 countries)], {S}officials {V}admit {O}[❷that {従接} {S}the London Paralympic Games {V}were not {C}a truly global event]. {S}Developing nations {V}were {C}❸under-represented, (❹with {s}competitors {v}facing {o}obstacles (❺ranging from (prejudice against disability) to (the high cost of wheelchairs {等接}and artificial limbs))).
+
+Even though they involved athletes from 164 countries, officials admit that the London Paralympic Games were not a truly global event. Developing nations were under-represented, with competitors facing obstacles ranging from prejudice against disability to the high cost of wheelchairs and artificial limbs.
 
 ### ❶　Even though の働きは？　〔接続詞〕
 

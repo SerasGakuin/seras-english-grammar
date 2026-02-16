@@ -8,7 +8,9 @@
 
 ## 精講
 
-... ₛshe ᵥ**stresses** ₒ[❶that] ₛ[ₒwhat ₛwe ᵥneed ❷most] ᵥis simply ᴄa strong desire (to ₍ᵥ₎work) ❸等接and ᴄcommon sense].
+> ... {S}she {V}stresses {O}[❶that] {S}[{O}what {S}we {V}need ❷most] {V}is simply {C}a strong desire (to {v}work) ❸{等接}and {C}common sense].
+
+... she stresses that what we need most is simply a strong desire to work and common sense.
 
 ### ❶　that what って？　**Point**　〔関係詞〕
 

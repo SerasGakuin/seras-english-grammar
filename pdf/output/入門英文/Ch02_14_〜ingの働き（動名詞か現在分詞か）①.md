@@ -8,7 +8,9 @@
 
 ## 精講
 
-ₛ**The earliest evidence** (for ₍ₛ₎modern humans ₍ᵥ₎❶using ₍ₒ₎❷rainforest environments) ᵥ❸**was** (from around 45,000 years ago) (in Niah Cave, Borneo). ₛ**These regions** ᵥ❹**seem** ᴄ**an unlikely place** (❺for ₍ₛ₎early humans to ₍ᵥ₎live).
+> {S}The earliest evidence (for {s}modern humans {v}❶using {o}❷rainforest environments) {V}❸was (from around 45,000 years ago) (in Niah Cave, Borneo). {S}These regions {V}❹seem {C}an unlikely place (❺for {s}early humans to {v}live).
+
+The earliest evidence for modern humans using rainforest environments was from around 45,000 years ago in Niah Cave, Borneo. These regions seem an unlikely place for early humans to live.
 
 ### ❶　using はどこにつながる？　**Point**　〔動名詞〕
 

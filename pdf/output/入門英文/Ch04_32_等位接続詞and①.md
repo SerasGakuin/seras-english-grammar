@@ -10,7 +10,9 @@
 
 ## 精講
 
-ₛ❶A common media reaction ᵥ❷describes ₒthe terrorists as ᴄ❸'them' and 'evil' ❹等接and ₒthe victims as ᴄ'us' and 'good'.
+> {S}❶A common media reaction {V}❷describes {O}the terrorists as {C}❸'them' and 'evil' ❹{等接}and {O}the victims as {C}'us' and 'good'.
+
+A common media reaction describes the terrorists as 'them' and 'evil' and the victims as 'us' and 'good'.
 
 ### ❶　A common media reaction はどうなっているの？　〔名詞〕
 

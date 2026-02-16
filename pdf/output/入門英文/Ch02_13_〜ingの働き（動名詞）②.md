@@ -8,7 +8,9 @@
 
 ## 精講
 
-ₛAlbert ᵥ**was reading** ₒ❶**Kant** ❷等接**and** ᵥ**attending** ₒ**occasional lectures** (❸at the University of Pavia) (for pleasure), (❺without (❹being registered there) 等接or (having to think about exams)).
+> {S}Albert {V}was reading {O}❶Kant ❷{等接}and {V}attending {O}occasional lectures (❸at the University of Pavia) (for pleasure), (❺without (❹being registered there) {等接}or (having to think about exams)).
+
+Albert was reading Kant and attending occasional lectures at the University of Pavia for pleasure, without being registered there or having to think about exams.
 
 ### ❶　Kant って？　〔固有名詞〕
 

@@ -8,7 +8,9 @@
 
 ## 精講
 
-ₛEvery new technology ᵥ**raises** ₒ**fears** [❶同格従接that ₛsome jobs ᵥwill be lost] ❷等接and ₒ**hopes** [同格従接that ₛnew jobs ᵥwill be created]. (After the Industrial Revolution), for example, ₛworkers ᵥwere ᴄafraid [❸従接that ₛthey ᵥ❹would be replaced by machines].
+> {S}Every new technology {V}raises {O}fears [❶{同格}{従接}that {S}some jobs {V}will be lost] ❷{等接}and {O}hopes [{同格}{従接}that {S}new jobs {V}will be created]. (After the Industrial Revolution), for example, {S}workers {V}were {C}afraid [❸{従接}that {S}they {V}❹would be replaced by machines].
+
+Every new technology raises fears that some jobs will be lost and hopes that new jobs will be created. After the Industrial Revolution, for example, workers were afraid that they would be replaced by machines.
 
 ### ❶　この that の働きは？　**Point**　〔接続詞〕
 

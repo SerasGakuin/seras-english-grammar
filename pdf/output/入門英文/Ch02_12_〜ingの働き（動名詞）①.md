@@ -10,7 +10,9 @@
 
 ## 精講
 
-(❶For most young people), ❷though, ₛ(❸going to college 等接and doing well) ᵥ❹**is** still ᴄ**the best way** (to ₍ᵥ₎master ₍ₒ₎the tools (❺needed for many careers)).
+> (❶For most young people), ❷though, {S}(❸going to college {等接}and doing well) {V}❹is still {C}the best way (to {v}master {o}the tools (❺needed for many careers)).
+
+For most young people, though, going to college and doing well is still the best way to master the tools needed for many careers.
 
 ### ❶　For most young people の for は何？　〔前置詞〕
 

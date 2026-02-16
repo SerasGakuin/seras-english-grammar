@@ -8,7 +8,9 @@
 
 ## 精講
 
-ₛWe ᵥ❶may sit 等接and ᵥstare at the computer screen 等接or our notes (₍ᵥ₎❷trying ₍ₒ₎(to ₍ᵥ₎figure ₍ₒ₎something out)), ❸等接but [従接so long as ₛᵥwe're still trying], ₛᵥwe're ᴄlikely (to fail).
+> {S}We {V}❶may sit {等接}and {V}stare at the computer screen {等接}or our notes ({v}❷trying {o}(to {v}figure {o}something out)), ❸{等接}but [{従接}so long as {S}{V}we're still trying], {S}{V}we're {C}likely (to fail).
+
+We may sit and stare at the computer screen or our notes trying to figure something out, but so long as we're still trying, we're likely to fail.
 
 ### ❶　この may の働きは？　**Point**　〔助動詞〕〔接続詞〕
 

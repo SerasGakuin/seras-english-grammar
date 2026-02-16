@@ -8,7 +8,9 @@
 
 ## 精講
 
-... ❶there ᵥ**were** ₛ**mixed-gender teams** 等接**and** **mixed-nationality teams** (for ❷some ❸events), (₍ᵥ₎❹allowing ₍ₒ₎athletes (from different countries) ₍ᴄ₎(to ₍ᵥ₎participate together (in sports such as archery, judo, 等接and triathlon))).
+> ... ❶there {V}were {S}mixed-gender teams {等接}and mixed-nationality teams (for ❷some ❸events), ({v}❹allowing {o}athletes (from different countries) {c}(to {v}participate together (in sports such as archery, judo, {等接}and triathlon))).
+
+... there were mixed-gender teams and mixed-nationality teams for some events, allowing athletes from different countries to participate together in sports such as archery, judo, and triathlon.
 
 ### ❶　there の役割は何？　〔その他〕
 

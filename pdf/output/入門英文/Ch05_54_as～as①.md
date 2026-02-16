@@ -4,7 +4,9 @@
 
 ## 精講
 
-(For babies (born in 1980) ❶— today's 36-year-olds —) ₛ**the index of the American dream** ᵥ**has fallen** to 50 percent ❷: ₛ**Only half of them** ᵥ**make** ❸ₒ**as much money** [従接as ₛ**their parents** ᵥ**did**].
+> (For babies (born in 1980) ❶— today's 36-year-olds —) {S}the index of the American dream {V}has fallen to 50 percent ❷: {S}Only half of them {V}make ❸{O}as much money [{従接}as {S}their parents {V}did].
+
+For babies born in 1980 ― today's 36-year-olds ― the index of the American dream has fallen to 50 percent: Only half of them make as much money as their parents did.
 
 ### ❶ —（ダッシュ）の働きは？　〔その他〕
 

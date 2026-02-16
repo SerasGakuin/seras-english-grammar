@@ -8,7 +8,9 @@
 
 ## 精講
 
-(In March), ₛ❶the AI-based computer program AlphaGo, (❷developed by DeepMind), ᵥ**shocked** ₒthe world [❸従接when ₛit ᵥdefeated ₒSouth Korean *go* grandmaster Lee Sedol (in a five-game match of the ancient board game [ₛ❹関代that ᵥrequires ₒdeep insight])].
+> (In March), {S}❶the AI-based computer program AlphaGo, (❷developed by DeepMind), {V}shocked {O}the world [❸{従接}when {S}it {V}defeated {O}South Korean *go* grandmaster Lee Sedol (in a five-game match of the ancient board game [{S}❹{関代}that {V}requires {O}deep insight])].
+
+In March, the AI-based computer program AlphaGo, developed by DeepMind, shocked the world when it defeated South Korean *go* grandmaster Lee Sedol in a five-game match of the ancient board game that requires deep insight.
 ### ❶　the AI-based computer program AlphaGo は？　〔名〕〔詞〕
 
 　the AI-based computer program AlphaGo は，the AI-based computer program「AIを基にしたコンピュータプログラム」と，その呼び名である AlphaGo を並べて書いていて，全体で1つの名詞であり，これが文の主語になります。

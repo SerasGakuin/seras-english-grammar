@@ -8,7 +8,9 @@
 
 ## 精講
 
-[❶従接Although ₛwe ᵥknow ₒ[従接that ₛthe earth ᵥrevolves around the sun]], ₛwe ᵥ**cannot** ❷recite ₒthe astronomical observations ❸等接and ₒcalculations [ₛ❹関代that ᵥled to ₒthat conclusion].
+> [❶{従接}Although {S}we {V}know {O}[{従接}that {S}the earth {V}revolves around the sun]], {S}we {V}cannot ❷recite {O}the astronomical observations ❸{等接}and {O}calculations [{S}❹{関代}that {V}led to {O}that conclusion].
+
+Although we know that the earth revolves around the sun, we cannot recite the astronomical observations and calculations that led to that conclusion.
 
 ### ❶　Although の意味は？　**Point**　〔接続詞〕
 

@@ -8,7 +8,9 @@
 
 ## 精講
 
-ₛDoctors often ᵥhad ₒdifficulty (diagnosing illnesses ❶等接or finding problems (inside the body)). ₛX-rays ᵥallowed ₒthem ᴄ(to ₍ᵥ₎look into ₍ₒ₎their patients, ₍ᵥ₎identify ₍ₒ₎[❸where there ᵥwere ₛproblems], ❷等接and ₍ᵥ₎cure ₍ₒ₎them). ₛThis use of X-rays ᵥbrought ₒ(new understandings ❹等接and methods (for diagnosis 等接and treatment)).
+> {S}Doctors often {V}had {O}difficulty (diagnosing illnesses ❶{等接}or finding problems (inside the body)). {S}X-rays {V}allowed {O}them {C}(to {v}look into {o}their patients, {v}identify {o}[❸where there {V}were {S}problems], ❷{等接}and {v}cure {o}them). {S}This use of X-rays {V}brought {O}(new understandings ❹{等接}and methods (for diagnosis {等接}and treatment)).
+
+Doctors often had difficulty diagnosing illnesses or finding problems inside the body. X-rays allowed them to look into their patients, identify where there were problems, and cure them. This use of X-rays brought new understandings and methods for diagnosis and treatment.
 
 ### ❶　or は何と何をつないでいる？　**Point**　〔接続詞〕
 

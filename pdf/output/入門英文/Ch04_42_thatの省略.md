@@ -8,7 +8,9 @@
 
 ## 精講
 
-ₛChopik ᵥsays ₒ[ₛshe ᵥisn't suggesting ₒ[ₛwe ᵥignore ₒour families]], 等接but ₒ[❶従接that ₛfriends ᵥ❷make ₒus ₍ᵥ₎feel ₍ᴄ₎better]. (With friends) ₛyou ᵥare ᴄmore likely (to ₍ᵥ₎do ₍ₒ₎activities) ❸― ₛthey ᵥprovide ₒan outlet. ₛYou ᵥcan say ₒthings (to friends) 等接and ₛthey ᵥare ᴄless ❹judgmental.
+> {S}Chopik {V}says {O}[{S}she {V}isn't suggesting {O}[{S}we {V}ignore {O}our families]], {等接}but {O}[❶{従接}that {S}friends {V}❷make {O}us {v}feel {c}better]. (With friends) {S}you {V}are {C}more likely (to {v}do {o}activities) ❸― {S}they {V}provide {O}an outlet. {S}You {V}can say {O}things (to friends) {等接}and {S}they {V}are {C}less ❹judgmental.
+
+Chopik says he isn't suggesting we ignore our families, but that friends make us feel better. With friends you are more likely to do activities — they provide an outlet. You can say things to friends and they are less judgmental.
 
 ### ❶　この that は何？　**Point**　〔接続詞〕
 

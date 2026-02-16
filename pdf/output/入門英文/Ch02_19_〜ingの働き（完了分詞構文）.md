@@ -8,7 +8,9 @@
 
 ## 精講
 
-[❶As 従接 ₛI ᵥstood (in Shinjuku)], ₛI ᵥ**thought** (about ❷Vancouver, [where ₛI ᵥwas born and raised 関副]). (❸To me) ₛit ᵥ**was** ᴄ**a great city**, 等接but (₍ᵥ₎❹having experienced ₍ₒ₎city life (in New York and Tokyo)), ₛI ᵥ**have to admit** ₒ[❺how little ₛI ᵥknew (back in Vancouver) 疑].
+> [❶As {従接} {S}I {V}stood (in Shinjuku)], {S}I {V}thought (about ❷Vancouver, [where {S}I {V}was born and raised {関副}]). (❸To me) {S}it {V}was {C}a great city, {等接}but ({v}❹having experienced {o}city life (in New York and Tokyo)), {S}I {V}have to admit {O}[❺how little {S}I {V}knew (back in Vancouver) 疑].
+
+As I stood in Shinjuku, I thought about Vancouver, where I was born and raised. To me it was a great city, but having experienced city life in New York and Tokyo, I have to admit how little I knew back in Vancouver.
 
 ### ❶　As の意味は？　〔接続詞〕
 

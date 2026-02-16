@@ -8,7 +8,9 @@
 
 ## 精講
 
-ₛ(❶Traveling to different countries) ᵥ❷can bring ₒyou ₒa wealth of experience. ₛ❸The problem ᵥis ᴄ(₍ᵥ₎❹learning ₍ₒ₎(❺how to ₍ᵥ₎interpret ₍ₒ₎[ₒwhat ₛyou ᵥsee])). **Point**　ₛAppearances ᵥ❻can be ᴄdeceptive. **Point**　ₛThings ᵥaren't always ᴄ[ᴄ❼what ₛthey ᵥseem].
+> {S}(❶Traveling to different countries) {V}❷can bring {O}you {O}a wealth of experience. {S}❸The problem {V}is {C}({v}❹learning {o}(❺how to {v}interpret {o}[{O}{関代}what {S}you {V}see]))). {S}Appearances {V}❻can be {C}deceptive. {S}Things {V}aren't always {C}[{C}❼{関代}what {S}they {V}seem].
+
+Traveling to different countries can bring you a wealth of experience. The problem is learning how to interpret what you see. Appearances can be deceptive. Things aren't always what they seem.
 
 ### ❶　Traveling は何？　〔動名詞〕
 

@@ -8,7 +8,9 @@
 
 ## 精講
 
-ₛShe also ᵥsaw ₒthe poverty of her people ❶等接and ₒthe hard lives of ❷so many women [ₛ❸who ᵥwere fighting (against such basic problems as lack of food, firewood ❹等接and water), ❺等接and (against unemployment)]....
+> {S}She also {V}saw {O}the poverty of her people ❶{等接}and {O}the hard lives of ❷so many women [{S}❸{関代}who {V}were fighting (against such basic problems as lack of food, firewood ❹{等接}and water), ❺{等接}and (against unemployment)]....
+
+She also saw the poverty of her people and the hard lives of so many women who were fighting against such basic problems as lack of food, firewood and water, and against unemployment ....
 
 ### ❶　最初の and は何と何をつないでいる？　**Point**　〔接続詞〕
 

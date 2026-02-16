@@ -8,7 +8,9 @@
 
 ## 精講
 
-[❶❼従接While ₛrobots ᵥhave been utilized (in several industries) (for decades), (❷including the manufacturing sector)], ₛexperts now ᵥ**predict** ₒ[❸従接that ₛa turning point in robotic automation ᵥis approaching rapidly] ― ❹等接and ₒ[❺従接that ₛmuch of the developed world simply ᵥisn't prepared (for ❻such a radical transition)].
+> [❶❼{従接}While {S}robots {V}have been utilized (in several industries) (for decades), (❷including the manufacturing sector)], {S}experts now {V}predict {O}[❸{従接}that {S}a turning point in robotic automation {V}is approaching rapidly] ― ❹{等接}and {O}[❺{従接}that {S}much of the developed world simply {V}isn't prepared (for ❻such a radical transition)].
+
+While robots have been utilized in several industries for decades, including the manufacturing sector, experts now predict that a turning point in robotic automation is approaching rapidly ― and that much of the developed world simply isn't prepared for such a radical transition.
 
 ### ❶　While の意味は？　**Point**　〔接続詞〕
 

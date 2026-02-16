@@ -8,7 +8,9 @@
 
 ## 精講
 
-ₛ❶**The combined data** ᵥ**showed** ₒ[❷that ₛ❸those [ₛwho ᵥconsumed ₒa moderate amount of coffee, (about three to five cups a day)], ᵥ❹were (at the lowest risk for ❺problems)]. ₛ**Those** [ₛwho ᵥconsumed ₒfive or more cups (a day)] ᵥ**had** ₒ❻**no higher risk** (than those [ₛwho ᵥconsumed ₒnone]).
+> {S}❶The combined data {V}showed {O}[❷that {S}❸those [{S}{関代}who {V}consumed {O}a moderate amount of coffee, (about three to five cups a day)], {V}❹were (at the lowest risk for ❺problems)]. {S}Those [{S}{関代}who {V}consumed {O}five or more cups (a day)] {V}had {O}❻no higher risk (than those [{S}{関代}who {V}consumed {O}none]).
+
+The combined data showed that those who consumed a moderate amount of coffee, about three to five cups a day, were at the lowest risk for problems. Those who consumed five or more cups a day had no higher risk than those who consumed none.
 
 ### ❶　The combined data って何？　〔分詞〕
 

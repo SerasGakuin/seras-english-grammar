@@ -8,7 +8,9 @@
 
 ## 精講
 
-ₛWillpower ᵥis ᴄa mysterious force [ₛ❶関代that ᵥ❷helps ₒus ᴄ(₍ᵥ₎control ₍ₒ₎our actions 等接and ₍ᵥ₎achieve ₍ₒ₎our goals)]. ［中略］ ₛPsychologists [ₛ関代who ᵥbelieve ₒ[❸従接that ₛwillpower ᵥis ᴄa limited resource]] ᵥ**say** ₒ❹[ₛ(using up our willpower) ᵥis ᴄthe main reason [❺関副that ₛsome of us ᵥfail to achieve ₒour goals]].
+> {S}Willpower {V}is {C}a mysterious force [{S}❶{関代}that {V}❷helps {O}us {C}({v}control {o}our actions {等接}and {v}achieve {o}our goals)]. ［中略］ {S}Psychologists [{S}{関代}who {V}believe {O}[❸{従接}that {S}willpower {V}is {C}a limited resource]] {V}say {O}❹[{S}(using up our willpower) {V}is {C}the main reason [❺{関副}that {S}some of us {V}fail to achieve {O}our goals]].
+
+Willpower is a mysterious force that helps us control our actions and achieve our goals. ［中略］ Psychologists who believe that willpower is a limited resource say using up our willpower is the main reason that some of us fail to achieve our goals.
 
 ### ❶　この that の働きは？　〔関係詞〕
 

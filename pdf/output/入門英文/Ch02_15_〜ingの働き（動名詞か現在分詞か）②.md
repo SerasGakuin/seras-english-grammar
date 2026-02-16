@@ -8,7 +8,9 @@
 
 ## 精講
 
-(Just last year), ₛ❷a systematic review **of studies** (₍ᵥ₎❶looking at long-term consumption of coffee ❸等接and the risk of cardiovascular disease) ᵥ**was** **published**. ₛ**The researchers** ᵥ**found** ₒ**36 studies** (₍ᵥ₎❹involving ₍ₒ₎more than 1,270,000 participants).
+> (Just last year), {S}❷a systematic review of studies ({v}❶looking at long-term consumption of coffee ❸{等接}and the risk of cardiovascular disease) {V}was published. {S}The researchers {V}found {O}36 studies ({v}❹involving {o}more than 1,270,000 participants).
+
+Just last year, a systematic review of studies looking at long-term consumption of coffee and the risk of cardiovascular disease was published. The researchers found 36 studies involving more than 1,270,000 participants.
 
 ### ❶　looking はどこにつながる？　**Point**　〔分詞〕
 
